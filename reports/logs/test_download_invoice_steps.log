@@ -1,0 +1,286 @@
+2025-01-30 12:26:08,190 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:26:10,221 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:26:16,063 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:26:18,023 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:26:19,681 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:26:19,876 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:26:19,988 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:26:19,991 - steps.test_download_invoice_steps - ERROR - Failed to download the invoice: No active exception to reraise
+2025-01-30 12:28:19,730 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:28:21,632 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:28:27,753 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:28:30,090 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:28:32,107 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:28:32,362 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:28:35,486 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:33:25,380 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:33:27,446 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:33:33,868 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:33:35,844 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:33:37,519 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:33:37,770 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:33:45,113 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:34:42,781 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:34:44,687 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:34:50,699 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:34:52,442 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:34:54,322 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:34:54,477 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:35:06,829 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:36:06,375 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:36:08,363 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:36:15,211 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:36:17,381 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:36:18,935 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:36:19,203 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:36:29,664 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:36:48,136 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:36:49,815 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:36:55,469 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:36:57,267 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:36:58,636 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:36:58,803 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:37:09,260 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:38:17,502 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:38:19,169 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:38:24,391 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:38:26,482 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:38:28,713 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:38:28,869 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:38:38,326 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:51:01,200 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:51:03,282 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:51:09,127 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:51:11,157 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:51:13,709 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:51:13,928 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:51:23,402 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:51:53,893 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:51:56,701 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:52:03,444 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:52:05,397 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:52:07,234 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:52:07,524 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:52:16,984 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:53:09,190 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:53:11,044 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:53:17,237 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:53:19,126 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:53:20,602 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:53:20,695 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:53:31,164 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 12:54:03,908 - steps.test_download_invoice_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+	GetHandleVerifier [0x00007FF693E56CC5+28821]
+	(No symbol) [0x00007FF693DC3850]
+	(No symbol) [0x00007FF693C6578A]
+	(No symbol) [0x00007FF693C3F4F5]
+	(No symbol) [0x00007FF693CE6247]
+	(No symbol) [0x00007FF693CFECE2]
+	(No symbol) [0x00007FF693CDF0A3]
+	(No symbol) [0x00007FF693CAA778]
+	(No symbol) [0x00007FF693CAB8E1]
+	GetHandleVerifier [0x00007FF69418FCCD+3408029]
+	GetHandleVerifier [0x00007FF6941A743F+3504143]
+	GetHandleVerifier [0x00007FF69419B61D+3455469]
+	GetHandleVerifier [0x00007FF693F1BDCB+835995]
+	(No symbol) [0x00007FF693DCEB6F]
+	(No symbol) [0x00007FF693DCA824]
+	(No symbol) [0x00007FF693DCA9BD]
+	(No symbol) [0x00007FF693DBA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-01-30 12:54:03,908 - steps.test_download_invoice_steps - ERROR - Test failed during product quantity functionality: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.111)
+Stacktrace:
+	GetHandleVerifier [0x00007FF693E56CC5+28821]
+	(No symbol) [0x00007FF693DC3850]
+	(No symbol) [0x00007FF693C6578A]
+	(No symbol) [0x00007FF693C3F4F5]
+	(No symbol) [0x00007FF693CE6247]
+	(No symbol) [0x00007FF693CFECE2]
+	(No symbol) [0x00007FF693CDF0A3]
+	(No symbol) [0x00007FF693CAA778]
+	(No symbol) [0x00007FF693CAB8E1]
+	GetHandleVerifier [0x00007FF69418FCCD+3408029]
+	GetHandleVerifier [0x00007FF6941A743F+3504143]
+	GetHandleVerifier [0x00007FF69419B61D+3455469]
+	GetHandleVerifier [0x00007FF693F1BDCB+835995]
+	(No symbol) [0x00007FF693DCEB6F]
+	(No symbol) [0x00007FF693DCA824]
+	(No symbol) [0x00007FF693DCA9BD]
+	(No symbol) [0x00007FF693DBA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-01-30 12:54:25,789 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 12:54:27,317 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 12:54:32,315 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 12:54:33,988 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 12:54:35,439 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 12:54:35,554 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 12:54:47,013 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 15:41:41,264 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 15:41:42,870 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 15:41:48,680 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 15:41:50,461 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 15:41:52,174 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 15:41:52,530 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 15:42:04,005 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 15:45:03,932 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 15:45:06,220 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 15:45:11,894 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 15:45:14,257 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 15:45:15,944 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 15:45:16,137 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 15:45:27,600 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 16:53:56,654 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 16:53:58,159 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 16:54:03,688 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 16:54:05,328 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 16:54:06,988 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 16:54:07,276 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 16:54:18,743 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 19:57:53,592 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 19:57:55,440 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 19:58:01,345 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 19:58:03,427 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 19:58:05,841 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 19:58:06,076 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 19:58:17,555 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 21:28:27,276 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 21:28:28,724 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 21:28:33,664 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 21:28:35,268 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 21:28:36,871 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 21:28:36,974 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 21:28:48,434 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-30 21:34:30,988 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-30 21:34:32,717 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-30 21:34:38,707 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 21:34:40,565 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-30 21:34:42,601 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-30 21:34:42,809 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-30 21:34:54,283 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-01-31 17:48:32,137 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-01-31 17:48:33,859 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-01-31 17:48:39,906 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-31 17:48:41,688 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-01-31 17:48:45,511 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-01-31 17:48:45,738 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-01-31 17:48:57,225 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-02 16:22:43,972 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-02 16:22:45,753 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-02 16:22:51,130 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 16:22:52,630 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-02 16:22:54,198 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-02 16:22:54,423 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-02 16:23:05,904 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-02 18:12:17,308 - steps.test_download_invoice_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:14:49,252 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-02 18:14:50,929 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-02 18:14:56,452 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 18:14:57,725 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-02 18:14:59,189 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-02 18:14:59,466 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-02 18:15:10,929 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-02 18:38:13,325 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-02 18:38:14,896 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-02 18:38:20,350 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 18:38:21,703 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-02 18:38:23,045 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-02 18:38:23,287 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-02 18:38:34,759 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-02 19:11:23,408 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-02 19:11:24,779 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-02 19:11:29,608 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 19:11:30,803 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-02 19:11:31,972 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-02 19:11:32,112 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-02 19:11:43,581 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-02 23:59:26,542 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-02 23:59:27,794 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-02 23:59:32,393 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 23:59:33,491 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-02 23:59:34,546 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-02 23:59:34,612 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-02 23:59:46,077 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-03 00:04:22,991 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-03 00:04:24,291 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-03 00:04:28,873 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 00:04:29,985 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-03 00:04:31,108 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-03 00:04:31,210 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-03 00:04:42,671 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-03 00:15:47,386 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-03 00:15:48,689 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-03 00:15:53,299 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 00:15:54,403 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-03 00:15:55,487 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-03 00:15:55,564 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-03 00:16:07,031 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-03 13:54:04,026 - steps.test_download_invoice_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:55:35,431 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-03 13:55:37,042 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-03 13:55:42,378 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 13:55:43,721 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-03 13:55:44,993 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-03 13:55:45,168 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-03 13:55:56,620 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice
+2025-02-03 16:33:17,615 - steps.test_download_invoice_steps - INFO - User is on the homepage.
+2025-02-03 16:33:19,141 - steps.test_download_invoice_steps - INFO - User clicked on the sign-in button.
+2025-02-03 16:33:24,523 - steps.test_download_invoice_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 16:33:25,755 - steps.test_download_invoice_steps - INFO - User clicks on order history
+2025-02-03 16:33:27,066 - steps.test_download_invoice_steps - INFO - User Clicks on View Invoice
+2025-02-03 16:33:27,240 - steps.test_download_invoice_steps - INFO - User Successfully clicked print button in Page
+2025-02-03 16:33:38,698 - steps.test_download_invoice_steps - INFO - User successfully downloaded the invoice

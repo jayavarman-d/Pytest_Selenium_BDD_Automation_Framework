@@ -1,0 +1,240 @@
+2025-01-29 16:14:40,208 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-29 16:14:42,117 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-29 16:14:43,934 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-29 16:14:47,843 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-29 16:14:49,808 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-29 16:14:53,920 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-29 16:14:54,148 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-29 16:48:51,615 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-29 16:48:53,090 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-29 16:48:54,475 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-29 16:48:57,424 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-29 16:48:58,940 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-29 16:49:01,975 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-29 16:49:02,113 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-30 15:01:20,744 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 15:01:22,654 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 15:01:24,897 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 15:01:28,983 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 15:01:31,016 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 15:01:36,697 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-30 15:01:36,992 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-30 15:41:15,560 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 15:41:17,531 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 15:41:19,133 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 15:41:22,713 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 15:41:24,951 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 15:41:29,866 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-30 15:41:30,168 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-30 15:44:36,787 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 15:44:38,802 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 15:44:40,415 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 15:44:43,838 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 15:44:45,680 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 15:44:49,964 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-30 15:44:50,278 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-30 16:53:32,265 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 16:53:34,128 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 16:53:35,891 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 16:53:39,270 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 16:53:41,488 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 16:53:45,060 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-30 16:53:45,254 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-30 18:18:44,926 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 18:18:47,531 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 18:18:49,517 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 18:20:19,142 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 18:20:20,972 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 18:20:22,891 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 18:21:41,929 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 18:21:44,818 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 18:21:46,531 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 18:21:51,167 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 18:21:53,997 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 18:25:40,244 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 18:25:42,259 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 18:25:43,925 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 18:25:47,714 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 18:25:49,728 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 18:25:54,882 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-30 18:25:55,162 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-30 21:28:04,931 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 21:28:06,547 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 21:28:07,941 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 21:28:11,251 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 21:28:13,158 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 21:28:17,128 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-30 21:28:17,284 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-30 21:34:03,302 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-30 21:34:05,286 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-30 21:34:07,026 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-30 21:34:11,522 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-30 21:34:13,484 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-30 21:34:18,038 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-30 21:34:18,275 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-31 15:25:56,375 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-31 15:25:58,295 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-31 15:25:59,972 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-31 15:26:04,421 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-31 15:26:06,408 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-31 15:26:11,097 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-31 15:26:11,387 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-31 15:27:22,738 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-31 15:27:24,535 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-31 15:27:26,250 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-31 15:27:29,890 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-31 15:27:31,746 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-31 15:27:36,073 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-31 15:27:36,314 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-31 17:48:04,117 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-31 17:48:05,875 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-31 17:48:07,572 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-31 17:48:12,688 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-31 17:48:14,667 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-31 17:48:19,143 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-31 17:48:19,410 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-01-31 19:31:38,999 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-31 19:31:40,815 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-31 19:31:42,393 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-31 19:31:46,055 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-31 19:31:48,062 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-31 19:31:53,220 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-31 19:31:53,510 - steps.test_buy_without_login_steps - ERROR - Failed to enter payment details or confirm checkout: assert 'YOUR ORDER HAS BEEN PROCESSED!' in 'CHECKOUT CONFIRMATION'
+ +  where 'CHECKOUT CONFIRMATION' = confirm_purchase_message()
+ +    where confirm_purchase_message = <pages.Buy_Without_Login.BuyWithoutLogin object at 0x0000021A74DA9D60>.confirm_purchase_message
+2025-01-31 19:33:20,092 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-31 19:33:21,917 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-31 19:33:23,564 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-31 19:33:28,140 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-31 19:33:30,328 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-31 19:33:34,543 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-31 19:33:34,858 - steps.test_buy_without_login_steps - ERROR - Failed to enter payment details or confirm checkout: assert 'YOUR ORDER HAS BEEN PROCESSED!' in 'CHECKOUT CONFIRMATION'
+ +  where 'CHECKOUT CONFIRMATION' = confirm_purchase_message()
+ +    where confirm_purchase_message = <pages.Buy_Without_Login.BuyWithoutLogin object at 0x00000275CC0696A0>.confirm_purchase_message
+2025-01-31 19:37:04,430 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-31 19:37:06,230 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-31 19:37:08,083 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-31 19:37:11,748 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-31 19:37:13,651 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-31 19:37:18,576 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-31 19:37:18,920 - steps.test_buy_without_login_steps - ERROR - Failed to enter payment details or confirm checkout: assert 'YOUR ORDER HAS BEEN PROCESSED!' in 'CHECKOUT CONFIRMATION'
+ +  where 'CHECKOUT CONFIRMATION' = confirm_order_message()
+ +    where confirm_order_message = <pages.Buy_Without_Login.BuyWithoutLogin object at 0x000001C66653D8E0>.confirm_order_message
+2025-01-31 19:39:43,016 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-01-31 19:39:44,766 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-01-31 19:39:46,566 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-01-31 19:39:50,460 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-01-31 19:39:52,310 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-01-31 19:39:57,373 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-01-31 19:39:59,709 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-02 16:22:18,471 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-02 16:22:20,159 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-02 16:22:21,842 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-02 16:22:25,278 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-02 16:22:27,160 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-02 16:22:31,672 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-02 16:22:33,724 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-02 18:12:13,837 - steps.test_buy_without_login_steps - ERROR - Failed to navigate to the homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:14:23,237 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-02 18:14:25,039 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-02 18:14:26,603 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-02 18:14:30,165 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-02 18:14:32,022 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-02 18:14:36,712 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-02 18:14:38,826 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-02 18:37:47,497 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-02 18:37:49,197 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-02 18:37:50,803 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-02 18:37:54,285 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-02 18:37:56,169 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-02 18:38:00,953 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-02 18:38:03,042 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-02 19:11:01,484 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-02 19:11:02,949 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-02 19:11:04,263 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-02 19:11:07,138 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-02 19:11:08,685 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-02 19:11:12,107 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-02 19:11:13,994 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-02 23:59:06,812 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-02 23:59:08,325 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-02 23:59:09,615 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-02 23:59:12,541 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-02 23:59:13,960 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-02 23:59:16,805 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-02 23:59:18,493 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-03 00:04:03,783 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-03 00:04:05,155 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-03 00:04:06,406 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-03 00:04:09,207 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-03 00:04:10,585 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-03 00:04:13,369 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-03 00:04:15,073 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-03 00:15:27,954 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-03 00:15:29,394 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-03 00:15:30,656 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-03 00:15:33,477 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-03 00:15:34,852 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-03 00:15:37,588 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-03 00:15:39,401 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-03 13:54:01,313 - steps.test_buy_without_login_steps - ERROR - Failed to navigate to the homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:55:11,079 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-03 13:55:12,587 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-03 13:55:14,054 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-03 13:55:17,736 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-03 13:55:19,521 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-03 13:55:23,937 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-03 13:55:26,119 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
+2025-02-03 16:32:53,475 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-02-03 16:32:55,080 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-02-03 16:32:56,555 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-02-03 16:33:00,053 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-02-03 16:33:01,861 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-02-03 16:33:06,292 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-02-03 16:33:08,499 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.

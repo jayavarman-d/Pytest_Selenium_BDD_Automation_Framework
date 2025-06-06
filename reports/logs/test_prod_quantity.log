@@ -1,0 +1,180 @@
+2025-01-29 16:49:09,938 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-29 16:49:11,418 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-29 16:49:12,866 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-29 16:49:12,982 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-29 16:49:14,701 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-29 16:49:16,510 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-30 15:41:15,709 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-30 15:41:17,579 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-30 15:41:19,097 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-30 15:41:19,333 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-30 15:41:20,970 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-30 15:41:22,921 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-30 15:45:07,615 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-30 15:45:09,604 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-30 15:45:11,280 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-30 15:45:11,591 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-30 15:45:13,686 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-30 15:45:15,688 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-30 16:54:02,265 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-30 16:54:04,105 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-30 16:54:05,584 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-30 16:54:05,881 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-30 16:54:07,677 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-30 16:54:10,087 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-30 20:54:57,106 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-30 20:54:58,610 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-30 20:55:00,012 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-30 20:55:00,139 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-30 20:55:01,711 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-30 20:55:03,416 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-30 21:28:41,705 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-30 21:28:43,843 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-30 21:28:45,256 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-30 21:28:45,373 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-30 21:28:46,861 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-30 21:28:49,169 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-30 21:37:09,695 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-30 21:37:11,470 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-30 21:37:13,098 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-30 21:37:13,381 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-30 21:37:15,101 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-30 21:37:17,243 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-31 17:50:45,119 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-31 17:50:46,950 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-31 17:50:48,639 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-31 17:50:49,058 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-31 17:50:50,970 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-31 17:50:52,843 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-01-31 20:13:43,034 - steps.test_product_quantity_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF797F16CC5+28821]
+	(No symbol) [0x00007FF797E83850]
+	(No symbol) [0x00007FF797D2578A]
+	(No symbol) [0x00007FF797CFF4F5]
+	(No symbol) [0x00007FF797DA6247]
+	(No symbol) [0x00007FF797DBECE2]
+	(No symbol) [0x00007FF797D9F0A3]
+	(No symbol) [0x00007FF797D6A778]
+	(No symbol) [0x00007FF797D6B8E1]
+	GetHandleVerifier [0x00007FF79824FCCD+3408029]
+	GetHandleVerifier [0x00007FF79826743F+3504143]
+	GetHandleVerifier [0x00007FF79825B61D+3455469]
+	GetHandleVerifier [0x00007FF797FDBDCB+835995]
+	(No symbol) [0x00007FF797E8EB6F]
+	(No symbol) [0x00007FF797E8A824]
+	(No symbol) [0x00007FF797E8A9BD]
+	(No symbol) [0x00007FF797E7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-01-31 20:14:19,407 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-01-31 20:14:21,774 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-01-31 20:14:23,412 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-01-31 20:14:23,724 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-01-31 20:14:26,284 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-01-31 20:14:28,326 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-02 16:24:35,081 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-02 16:24:36,866 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-02 16:24:38,446 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-02 16:24:38,779 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-02 16:24:40,334 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-02 16:24:42,142 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-02 18:13:21,530 - steps.test_product_quantity_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:17:09,750 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-02 18:17:11,654 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-02 18:17:13,170 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-02 18:17:13,573 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-02 18:17:15,290 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-02 18:17:17,283 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-02 18:40:28,059 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-02 18:40:29,734 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-02 18:40:31,216 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-02 18:40:31,533 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-02 18:40:33,189 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-02 18:40:35,139 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-02 19:13:27,189 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-02 19:13:28,585 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-02 19:13:29,914 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-02 19:13:30,025 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-02 19:13:30,633 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-02 19:13:32,879 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-03 00:01:20,986 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-03 00:01:22,430 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-03 00:01:23,791 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-03 00:01:23,898 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-03 00:01:25,281 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-03 00:01:26,888 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-03 00:06:13,967 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-03 00:06:15,370 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-03 00:06:16,629 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-03 00:06:16,741 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-03 00:06:18,062 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-03 00:06:19,633 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-03 00:17:37,594 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-03 00:17:38,991 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-03 00:17:40,252 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-03 00:17:40,372 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-03 00:17:41,725 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-03 00:17:43,271 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-03 13:54:33,971 - steps.test_product_quantity_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:57:42,568 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-03 13:57:44,330 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-03 13:57:45,948 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-03 13:57:46,236 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-03 13:57:47,740 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-03 13:57:49,523 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.
+2025-02-03 16:35:25,241 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-02-03 16:35:26,939 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-02-03 16:35:28,593 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-02-03 16:35:29,038 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-02-03 16:35:30,732 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-02-03 16:35:32,701 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.

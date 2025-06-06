@@ -1,0 +1,17 @@
+2025-05-02 17:16:26 [32mINFO[0m Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:16:26 [32mINFO[0m Found element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:16:28 [32mINFO[0m Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="60020bb20076cdb53b5cf23213b2421d", element="f.03849C289E8F27036D2A5C8B7911D9F0.d.BD44EBA345ABE40EE4CC8D61C47ACC4B.e.306")>
+2025-05-02 17:16:28 [32mINFO[0m Navigated to Sign-In Page.
+2025-05-02 17:16:28 [32mINFO[0m User navigated to the signin page.
+2025-05-02 17:16:28 [32mINFO[0m Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:28 [32mINFO[0m Sent value to element: ('xpath', "//input[@name='loginname']") with value: "trial"
+2025-05-02 17:16:28 [32mINFO[0m Entered username in the Sign-In field.
+2025-05-02 17:16:28 [32mINFO[0m User entered invalid username.
+2025-05-02 17:16:28 [32mINFO[0m Waiting for element: //input[@name='password']
+2025-05-02 17:16:29 [32mINFO[0m Sent value to element: ('xpath', "//input[@name='password']") with value: "trial__"
+2025-05-02 17:16:29 [32mINFO[0m Entered password in the Sign-In field.
+2025-05-02 17:16:29 [32mINFO[0m User entered invalid password.
+2025-05-02 17:16:29 [32mINFO[0m Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:16:29 [32mINFO[0m Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:16:29 [32mINFO[0m Clicked the Sign-In button.
+2025-05-02 17:16:29 [32mINFO[0m User clicked the signin button.

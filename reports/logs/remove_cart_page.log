@@ -1,0 +1,70 @@
+2025-01-29 16:49:30,471 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-29 16:49:32,385 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-29 16:49:34,464 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-29 16:49:36,147 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-01-30 15:41:35,812 - pages.Remove_Cart - ERROR - Failed to log in: 'Cell' object is not iterable
+2025-01-30 15:45:43,054 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-30 15:45:45,050 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-30 15:45:47,051 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-30 15:45:48,936 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-01-30 16:54:34,455 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-30 16:54:36,336 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-30 16:54:38,363 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-30 16:54:40,941 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-01-30 21:07:11,462 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-30 21:07:13,333 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-30 21:07:15,178 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-30 21:07:16,848 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-01-30 21:29:01,789 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-30 21:29:03,884 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-30 21:29:06,166 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-30 21:29:08,404 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-01-30 21:37:33,007 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-30 21:37:35,054 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-30 21:37:37,180 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-30 21:37:39,146 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-01-31 17:51:07,840 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-31 17:51:09,804 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-31 17:51:12,033 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-31 17:51:14,015 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-01-31 19:59:09,282 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-31 19:59:11,297 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-31 19:59:13,358 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-31 19:59:23,676 - pages.Remove_Cart - ERROR - Failed to remove item from the cart: Message: 
+
+2025-01-31 20:04:18,603 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-01-31 20:04:20,636 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-01-31 20:04:22,811 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-01-31 20:04:24,750 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-02 16:24:56,802 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-02 16:24:58,921 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-02 16:25:00,718 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-02 16:25:02,464 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-02 18:17:32,353 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-02 18:17:34,436 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-02 18:17:36,257 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-02 18:17:38,158 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-02 18:40:49,272 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-02 18:40:51,141 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-02 18:40:52,844 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-02 18:40:54,580 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-02 19:13:46,364 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-02 19:13:48,052 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-02 19:13:49,588 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-02 19:13:51,052 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-03 00:01:38,209 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-03 00:01:39,927 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-03 00:01:41,440 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-03 00:01:42,876 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-03 00:17:54,438 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-03 00:17:56,096 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-03 00:17:57,940 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-03 00:17:59,381 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-03 13:58:02,121 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-03 13:58:04,262 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-03 13:58:07,811 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-03 13:58:09,461 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-02-03 16:35:45,481 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-02-03 16:35:47,410 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-02-03 16:35:49,191 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-02-03 16:35:50,957 - pages.Remove_Cart - INFO - Successfully removed item from the cart.

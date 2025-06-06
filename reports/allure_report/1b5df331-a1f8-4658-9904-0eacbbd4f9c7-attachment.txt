@@ -1,0 +1,17 @@
+2025-05-02 17:14:41,179 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:14:43,249 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:14:43,252 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:14:43,252 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:14:43,254 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-05-02 17:14:43,256 - base_class_logger - INFO - Waiting for element: //input[@id='filter_keyword']
+2025-05-02 17:14:43,599 - base_class_logger - INFO - Clicked on element: ('xpath', "//input[@id='filter_keyword']")
+2025-05-02 17:14:43,600 - base_class_logger - INFO - Waiting for element: //input[@id='filter_keyword']
+2025-05-02 17:14:43,754 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@id='filter_keyword']") with value: Shirts
+2025-05-02 17:14:43,754 - pages.Homepage - INFO - Searched for 'Shirts' in the search bar.
+2025-05-02 17:14:43,760 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-05-02 17:14:43,760 - base_class_logger - INFO - Waiting for element: //div[@class='button-in-search']
+2025-05-02 17:14:46,326 - base_class_logger - INFO - Clicked on element: ('xpath', "//div[@class='button-in-search']")
+2025-05-02 17:14:46,326 - pages.Homepage - INFO - Clicked the search button and searched the product.
+2025-05-02 17:14:46,326 - base_class_logger - INFO - Waiting for element: //span[@class = 'bgnone']
+2025-05-02 17:14:46,387 - base_class_logger - INFO - Got text from element: ('xpath', "//span[@class = 'bgnone']") - Text: Fruit of the Loom T-Shirts 5 Pack - Super Premium
+2025-05-02 17:14:46,393 - steps.test_home_steps - INFO - User clicked on the search button.

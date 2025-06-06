@@ -1,0 +1,52 @@
+2025-05-02 17:16:53 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:16:55 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:16:55 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:16:55 [32mINFO[0m Navigated to the Home Page.
+2025-05-02 17:16:55 [32mINFO[0m User is on the homepage.
+2025-05-02 17:16:55 [32mINFO[0m Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:16:56 [32mINFO[0m Found element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:16:58 [32mINFO[0m Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="785526cf435986ee4364198697d905c2", element="f.098006C8E3F2D89876C0598EECD51FB7.d.94897790DBAB11D8F1A98AE9C7E62ECC.e.85")>
+2025-05-02 17:16:58 [32mINFO[0m Navigated to Sign-In Page.
+2025-05-02 17:16:58 [32mINFO[0m User clicked on the login page.
+2025-05-02 17:16:58 [32mINFO[0m Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:58 [32mINFO[0m Cleared text of element: ('xpath', "//input[@name='loginname']")
+2025-05-02 17:16:58 [32mINFO[0m Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:58 [32mINFO[0m Sent value to element: ('xpath', "//input[@name='loginname']") with value: Demo866
+2025-05-02 17:16:58 [32mINFO[0m Entered valid username in the Sign-In field.
+2025-05-02 17:16:58 [32mINFO[0m Waiting for element: //input[@name='password']
+2025-05-02 17:16:58 [32mINFO[0m Cleared text of element: ('xpath', "//input[@name='password']")
+2025-05-02 17:16:58 [32mINFO[0m Waiting for element: //input[@name='password']
+2025-05-02 17:16:58 [32mINFO[0m Sent value to element: ('xpath', "//input[@name='password']") with value: Demo866ta
+2025-05-02 17:16:58 [32mINFO[0m Entered valid password in the Sign-In field.
+2025-05-02 17:16:58 [32mINFO[0m Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:16:58 [32mINFO[0m Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:16:58 [32mINFO[0m Clicked the Sign-In button.
+2025-05-02 17:16:58 [32mINFO[0m User successfully logged in.
+2025-05-02 17:16:58 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:17:02 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:17:02 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:17:02 [32mINFO[0m Navigated to the Home Page.
+2025-05-02 17:17:02 [32mINFO[0m User navigated to homepage after login.
+2025-05-02 17:17:02 [32mINFO[0m Waiting for element: //a[@title='ck one shock for him Deodorant']
+2025-05-02 17:17:04 [32mINFO[0m Clicked on element: ('xpath', "//a[@title='ck one shock for him Deodorant']")
+2025-05-02 17:17:04 [32mINFO[0m Selected product for wishlist.
+2025-05-02 17:17:04 [32mINFO[0m User selected a product.
+2025-05-02 17:17:04 [32mINFO[0m Waiting for element: //i[@class='fa fa-plus-square fa-fw']
+2025-05-02 17:17:04 [32mINFO[0m Clicked on element: ('xpath', "//i[@class='fa fa-plus-square fa-fw']")
+2025-05-02 17:17:04 [32mINFO[0m Successfully added product to wishlist.
+2025-05-02 17:17:04 [32mINFO[0m Product added to wishlist.
+2025-05-02 17:17:04 [32mINFO[0m Waiting for element: //div[@class='menu_text']
+2025-05-02 17:17:05 [32mINFO[0m Hovered over element: ('xpath', "//div[@class='menu_text']")
+2025-05-02 17:17:05 [32mINFO[0m Hovered over the profile section.
+2025-05-02 17:17:05 [32mINFO[0m User navigated to profile.
+2025-05-02 17:17:05 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=account/wishlist']
+2025-05-02 17:17:06 [32mINFO[0m Clicked on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=account/wishlist']")
+2025-05-02 17:17:06 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:17:06 [32mINFO[0m Navigated to the wishlist page.
+2025-05-02 17:17:06 [32mINFO[0m User navigated to wishlist.
+2025-05-02 17:17:06 [32mINFO[0m Waiting for element: //i[@class='fa fa-trash-o fa-fw']
+2025-05-02 17:17:06 [32mINFO[0m Clicked on element: ('xpath', "//i[@class='fa fa-trash-o fa-fw']")
+2025-05-02 17:17:06 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:17:06 [32mINFO[0m The test details is entered into the database
+2025-05-02 17:17:06 [32mINFO[0m Successfully removed product from wishlist.
+2025-05-02 17:17:06 [32mINFO[0m User removed the product from the wishlist.

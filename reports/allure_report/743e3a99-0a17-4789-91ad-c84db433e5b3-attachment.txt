@@ -1,0 +1,38 @@
+2025-05-02 17:15:46,407 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:15:48,442 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:15:48,449 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:15:48,450 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:15:48,452 - steps.test_remove_cart_steps - INFO - User is on the homepage.
+2025-05-02 17:15:48,479 - base_class_logger - INFO - Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:15:50,374 - base_class_logger - INFO - Clicked on element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:15:50,378 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:15:50,595 - base_class_logger - INFO - Clicked on element: ('xpath', "//input[@name='loginname']")
+2025-05-02 17:15:50,595 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:15:50,689 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='loginname']") with value: Demo8666
+2025-05-02 17:15:50,689 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:15:50,818 - base_class_logger - INFO - Clicked on element: ('xpath', "//input[@name='password']")
+2025-05-02 17:15:50,818 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:15:50,908 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='password']") with value: Demo8666ta
+2025-05-02 17:15:50,908 - base_class_logger - INFO - Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:15:51,056 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:15:51,057 - pages.Remove_Cart - INFO - Successfully logged in with valid credentials.
+2025-05-02 17:15:51,072 - steps.test_remove_cart_steps - INFO - User signed in successfully.
+2025-05-02 17:15:51,076 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:15:57,071 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:15:57,071 - pages.Remove_Cart - INFO - Successfully navigated to the homepage.
+2025-05-02 17:15:57,071 - steps.test_remove_cart_steps - INFO - User navigated to the homepage after sign-in.
+2025-05-02 17:15:57,083 - base_class_logger - INFO - Waiting for element: //ul[@class='nav topcart pull-left']//i[@class='fa fa-shopping-cart fa-fw']
+2025-05-02 17:15:57,424 - base_class_logger - INFO - Hovered over element: ('xpath', "//ul[@class='nav topcart pull-left']//i[@class='fa fa-shopping-cart fa-fw']")
+2025-05-02 17:15:57,424 - base_class_logger - INFO - Waiting for element: //ul[@class='nav topcart pull-left']//a[@class='btn btn-default']
+2025-05-02 17:16:00,185 - base_class_logger - INFO - Clicked on element: ('xpath', "//ul[@class='nav topcart pull-left']//a[@class='btn btn-default']")
+2025-05-02 17:16:00,187 - pages.Remove_Cart - INFO - Hovered over and clicked to view the cart.
+2025-05-02 17:16:00,187 - steps.test_remove_cart_steps - INFO - User clicked on the cart page.
+2025-05-02 17:16:00,192 - base_class_logger - INFO - Waiting for element: //td[@class='align_left']//a[contains(text(),'')]
+2025-05-02 17:16:00,282 - base_class_logger - INFO - Got text from element: ('xpath', "//td[@class='align_left']//a[contains(text(),'')]") - Text: Color Design Eye Brightening All in One 5 Shadow & Liner Palette
+2025-05-02 17:16:00,282 - base_class_logger - INFO - Waiting for element: //a[@class='btn btn-sm btn-default']
+2025-05-02 17:16:02,471 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@class='btn btn-sm btn-default']")
+2025-05-02 17:16:02,471 - pages.Remove_Cart - INFO - Successfully removed item from the cart.
+2025-05-02 17:16:02,471 - base_class_logger - INFO - Waiting for element: //td[@class='align_left']//a[contains(text(),'')]
+2025-05-02 17:16:02,563 - base_class_logger - INFO - Got text from element: ('xpath', "//td[@class='align_left']//a[contains(text(),'')]") - Text: Lancome Hypnose Doll Lashes Mascara 4-Piece Gift Set
+2025-05-02 17:16:02,588 - base_class_logger - INFO - The test details is entered into the database
+2025-05-02 17:16:02,588 - steps.test_remove_cart_steps - INFO - User started removing items from the cart.

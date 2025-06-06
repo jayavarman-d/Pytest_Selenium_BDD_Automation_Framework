@@ -1,0 +1,186 @@
+2025-01-29 16:48:51,854 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-29 16:48:52,022 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-01-29 16:48:58,672 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-01-29 16:49:18,772 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-29 16:49:19,078 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-01-29 16:49:25,871 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-01-30 15:44:36,450 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-30 15:44:36,823 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-01-30 15:44:43,124 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-01-30 15:44:45,551 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-30 15:44:45,920 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-01-30 15:44:53,489 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-01-30 16:53:32,429 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-30 16:53:32,819 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-01-30 16:53:39,201 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-01-30 16:53:41,625 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-30 16:53:41,900 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-01-30 16:53:50,172 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-01-30 20:40:38,590 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-30 20:40:38,922 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-01-30 20:40:45,100 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-01-30 20:41:02,676 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-01-30 20:41:02,943 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-01-30 20:41:09,618 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-01-30 21:28:05,478 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-30 21:28:05,797 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-01-30 21:28:11,880 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-01-30 21:28:23,348 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-01-30 21:28:23,480 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-01-30 21:28:30,088 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-01-30 21:36:31,340 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-30 21:36:31,739 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-01-30 21:36:38,025 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-01-30 21:36:50,776 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-01-30 21:36:51,450 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-01-30 21:36:58,579 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-01-31 17:50:08,843 - steps.test_home_steps - INFO - User is on the homepage.
+2025-01-31 17:50:09,245 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-01-31 17:50:15,489 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-01-31 17:50:26,023 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-01-31 17:50:26,585 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-01-31 17:50:33,888 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-01 15:26:03,406 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-01 15:26:03,896 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-01 15:26:10,079 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-01 15:31:01,028 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-01 15:31:01,480 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-01 15:31:18,337 - steps.test_home_steps - ERROR - Failed to click on T-Shirts: assert None == 'T-SHIRTS'
+ +  where None = navbar_assert()
+ +    where navbar_assert = <pages.Homepage.HomePage object at 0x00000199983E9610>.navbar_assert
+2025-02-01 15:32:25,394 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-01 15:32:25,763 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-01 15:32:32,009 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-01 15:36:05,761 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-01 15:36:06,562 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-01 15:36:13,576 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-02 16:24:07,538 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-02 16:24:07,923 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-02 16:24:10,290 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-02 16:24:22,586 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-02 16:24:23,142 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-02 16:24:24,949 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-02 18:13:00,685 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-02 18:13:01,144 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-02 18:13:03,574 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-02 18:13:15,048 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-02 18:13:15,654 - steps.test_home_steps - ERROR - Failed to click on search bar: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:16:14,719 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-02 18:16:15,067 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-02 18:16:17,537 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-02 18:16:28,579 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-02 18:16:29,258 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-02 18:16:31,285 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-02 18:39:38,012 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-02 18:39:38,524 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-02 18:39:39,827 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-02 18:39:49,901 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-02 18:39:50,601 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-02 18:39:52,447 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-02 19:12:36,351 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-02 19:12:36,681 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-02 19:12:37,822 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-02 19:12:51,100 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-02 19:12:51,452 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-02 19:12:53,140 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-03 00:00:36,338 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-03 00:00:36,625 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-03 00:00:37,702 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-03 00:00:45,505 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-03 00:00:45,645 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-03 00:00:47,126 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-03 00:05:32,119 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-03 00:05:32,416 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-03 00:05:33,511 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-03 00:05:41,439 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-03 00:05:41,574 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-03 00:05:43,056 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-03 00:16:56,151 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-03 00:16:56,453 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-03 00:16:57,593 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-03 00:17:05,524 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-03 00:17:05,667 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-03 00:17:07,124 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-03 13:54:11,424 - steps.test_home_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:54:14,061 - steps.test_home_steps - ERROR - Failed to navigate to homepage for search: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:56:55,638 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-03 13:56:56,015 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-03 13:56:57,378 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-03 13:57:06,392 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-03 13:57:06,799 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-03 13:57:08,531 - steps.test_home_steps - INFO - User clicked on the search button.
+2025-02-03 16:34:37,892 - steps.test_home_steps - INFO - User is on the homepage.
+2025-02-03 16:34:38,236 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-02-03 16:34:39,610 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.
+2025-02-03 16:34:48,780 - steps.test_home_steps - INFO - User is on the homepage for search.
+2025-02-03 16:34:49,126 - steps.test_home_steps - INFO - User clicked on the search bar.
+2025-02-03 16:34:50,968 - steps.test_home_steps - INFO - User clicked on the search button.

@@ -1,0 +1,17 @@
+2025-05-02 17:14:27 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:14:29 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:14:29 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:14:29 [32mINFO[0m Navigated to the Home Page.
+2025-05-02 17:14:29 [32mINFO[0m User is on the homepage.
+2025-05-02 17:14:29 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=68']
+2025-05-02 17:14:30 [32mINFO[0m Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=68']")
+2025-05-02 17:14:30 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:14:30 [32mINFO[0m Hovered over the navbar.
+2025-05-02 17:14:30 [32mINFO[0m User navigated to the Navbar.
+2025-05-02 17:14:30 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=68_70']
+2025-05-02 17:14:31 [32mINFO[0m Executed script click on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=68_70']")
+2025-05-02 17:14:31 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:14:31 [32mINFO[0m Selected option from the navbar dropdown.
+2025-05-02 17:14:31 [32mINFO[0m Waiting for element: //span[@class = 'maintext']
+2025-05-02 17:14:31 [32mINFO[0m Got text from element: ('xpath', "//span[@class = 'maintext']") - Text: T-SHIRTS
+2025-05-02 17:14:31 [32mINFO[0m User clicked on T-Shirts in the hover menu.

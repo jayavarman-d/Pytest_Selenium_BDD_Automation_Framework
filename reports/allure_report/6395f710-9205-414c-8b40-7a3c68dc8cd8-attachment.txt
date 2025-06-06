@@ -1,0 +1,17 @@
+2025-05-02 17:14:27,137 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:14:29,648 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:14:29,651 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:14:29,654 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:14:29,654 - steps.test_home_steps - INFO - User is on the homepage.
+2025-05-02 17:14:29,658 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=68']
+2025-05-02 17:14:30,108 - base_class_logger - INFO - Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=68']")
+2025-05-02 17:14:30,113 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:14:30,113 - pages.Homepage - INFO - Hovered over the navbar.
+2025-05-02 17:14:30,115 - steps.test_home_steps - INFO - User navigated to the Navbar.
+2025-05-02 17:14:30,116 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=68_70']
+2025-05-02 17:14:31,391 - base_class_logger - INFO - Executed script click on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=68_70']")
+2025-05-02 17:14:31,394 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:14:31,397 - pages.Homepage - INFO - Selected option from the navbar dropdown.
+2025-05-02 17:14:31,397 - base_class_logger - INFO - Waiting for element: //span[@class = 'maintext']
+2025-05-02 17:14:31,469 - base_class_logger - INFO - Got text from element: ('xpath', "//span[@class = 'maintext']") - Text: T-SHIRTS
+2025-05-02 17:14:31,469 - steps.test_home_steps - INFO - User clicked on T-Shirts in the hover menu.

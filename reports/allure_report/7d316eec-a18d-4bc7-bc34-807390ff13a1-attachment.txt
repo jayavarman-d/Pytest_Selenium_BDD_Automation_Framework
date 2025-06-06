@@ -1,0 +1,80 @@
+2025-05-02 17:13:32 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=52']
+2025-05-02 17:13:33 [32mINFO[0m Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=52']")
+2025-05-02 17:13:33 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:33 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=52_54']
+2025-05-02 17:13:34 [32mINFO[0m Executed script click on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=52_54']")
+2025-05-02 17:13:34 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:34 [32mINFO[0m Successfully selected the product catalog from the navbar.
+2025-05-02 17:13:34 [32mINFO[0m User navigated to the conditioner page.
+2025-05-02 17:13:34 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:34 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:34 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='pd.name-ASC']
+2025-05-02 17:13:36 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='pd.name-ASC']")
+2025-05-02 17:13:36 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:36 [32mINFO[0m Waiting for element: //div[@class = 'fixed']//a[@class = 'prdocutname']
+2025-05-02 17:13:36 [32mINFO[0m Found elements: ('xpath', "//div[@class = 'fixed']//a[@class = 'prdocutname']")
+2025-05-02 17:13:36 [32mINFO[0m Sorted products in ascending order.
+2025-05-02 17:13:36 [32mINFO[0m User clicked on the sort by Name A-Z.
+2025-05-02 17:13:36 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:36 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:36 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='pd.name-DESC']
+2025-05-02 17:13:37 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='pd.name-DESC']")
+2025-05-02 17:13:37 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:37 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='pd.name-DESC']
+2025-05-02 17:13:37 [32mINFO[0m Found elements: ('xpath', "//select[@name='sort']//option[@value='pd.name-DESC']")
+2025-05-02 17:13:37 [32mINFO[0m Sorted products in descending order.
+2025-05-02 17:13:37 [32mINFO[0m User clicked on the sort by Name Z-A.
+2025-05-02 17:13:37 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:38 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:38 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='p.price-ASC']
+2025-05-02 17:13:39 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='p.price-ASC']")
+2025-05-02 17:13:39 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:39 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='p.price-ASC']
+2025-05-02 17:13:39 [32mINFO[0m Found elements: ('xpath', "//select[@name='sort']//option[@value='p.price-ASC']")
+2025-05-02 17:13:39 [32mINFO[0m Sorted products by price in ascending order.
+2025-05-02 17:13:39 [32mINFO[0m User clicked on the sort by Price Low > High.
+2025-05-02 17:13:39 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:39 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:39 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='p.price-DESC']
+2025-05-02 17:13:41 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='p.price-DESC']")
+2025-05-02 17:13:41 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:41 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='p.price-DESC']
+2025-05-02 17:13:41 [32mINFO[0m Found elements: ('xpath', "//select[@name='sort']//option[@value='p.price-DESC']")
+2025-05-02 17:13:41 [32mINFO[0m Sorted products by price in descending order.
+2025-05-02 17:13:41 [32mINFO[0m User clicked on the sort by Price High > Low.
+2025-05-02 17:13:41 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:41 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:41 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='rating-DESC']
+2025-05-02 17:13:42 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='rating-DESC']")
+2025-05-02 17:13:42 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:42 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='rating-DESC']
+2025-05-02 17:13:42 [32mINFO[0m Found elements: ('xpath', "//select[@name='sort']//option[@value='rating-DESC']")
+2025-05-02 17:13:42 [32mINFO[0m Sorted products by rating in high to low order.
+2025-05-02 17:13:42 [32mINFO[0m User clicked on the sort by Rating Highest.
+2025-05-02 17:13:42 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:43 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:43 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='rating-ASC']
+2025-05-02 17:13:44 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='rating-ASC']")
+2025-05-02 17:13:44 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:44 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='rating-ASC']
+2025-05-02 17:13:44 [32mINFO[0m Found elements: ('xpath', "//select[@name='sort']//option[@value='rating-ASC']")
+2025-05-02 17:13:44 [32mINFO[0m Sorted products by rating in low to high order.
+2025-05-02 17:13:44 [32mINFO[0m User clicked on the sort by Rating Lowest.
+2025-05-02 17:13:44 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:44 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:44 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='date_modified-DESC']
+2025-05-02 17:13:46 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='date_modified-DESC']")
+2025-05-02 17:13:46 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:46 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='date_modified-DESC']
+2025-05-02 17:13:46 [32mINFO[0m Found elements: ('xpath', "//select[@name='sort']//option[@value='date_modified-DESC']")
+2025-05-02 17:13:46 [32mINFO[0m Sorted products by date from new to old.
+2025-05-02 17:13:46 [32mINFO[0m User clicked on the sort by Date New > Old.
+2025-05-02 17:13:46 [32mINFO[0m Waiting for element: //select[@name='sort']
+2025-05-02 17:13:46 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:46 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='date_modified-ASC']
+2025-05-02 17:13:47 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='sort']//option[@value='date_modified-ASC']")
+2025-05-02 17:13:47 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:13:47 [32mINFO[0m Waiting for element: //select[@name='sort']//option[@value='date_modified-ASC']
+2025-05-02 17:13:47 [32mINFO[0m Found elements: ('xpath', "//select[@name='sort']//option[@value='date_modified-ASC']")
+2025-05-02 17:13:47 [32mINFO[0m Sorted products by date from old to new.
+2025-05-02 17:13:48 [32mINFO[0m User clicked on the sort by Date Old > New.

@@ -1,0 +1,99 @@
+2025-05-02 17:14:57 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:14:59 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:14:59 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:14:59 [32mINFO[0m Navigated to the Home Page.
+2025-05-02 17:14:59 [32mINFO[0m User is on the homepage.
+2025-05-02 17:14:59 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=68']
+2025-05-02 17:14:59 [32mINFO[0m Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=68']")
+2025-05-02 17:14:59 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:14:59 [32mINFO[0m Hovered over the navbar.
+2025-05-02 17:14:59 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=68_70']
+2025-05-02 17:15:01 [32mINFO[0m Executed script click on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=68_70']")
+2025-05-02 17:15:01 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:15:01 [32mINFO[0m Selected option from the navbar dropdown.
+2025-05-02 17:15:01 [32mINFO[0m User navigated to the navbar.
+2025-05-02 17:15:01 [32mINFO[0m Waiting for element: //a[@title='Casual 3/4 Sleeve Baseball T-Shirt']
+2025-05-02 17:15:03 [32mINFO[0m Clicked on element: ('xpath', "//a[@title='Casual 3/4 Sleeve Baseball T-Shirt']")
+2025-05-02 17:15:03 [32mINFO[0m Selected product to cart.
+2025-05-02 17:15:03 [32mINFO[0m User selected the product.
+2025-05-02 17:15:03 [32mINFO[0m Waiting for element: //a[@title='Casual 3/4 Sleeve Baseball T-Shirt']
+2025-05-02 17:15:13 [31m[1mERROR[0m Failed to find element: ('xpath', "//a[@title='Casual 3/4 Sleeve Baseball T-Shirt']") with condition <function visibility_of_element_located at 0x0000025E927F3380>: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF72E28A145+76773]
+	GetHandleVerifier [0x00007FF72E28A1A0+76864]
+	(No symbol) [0x00007FF72E048F7A]
+	(No symbol) [0x00007FF72E09F496]
+	(No symbol) [0x00007FF72E09F74C]
+	(No symbol) [0x00007FF72E0F2287]
+	(No symbol) [0x00007FF72E0C739F]
+	(No symbol) [0x00007FF72E0EF0CF]
+	(No symbol) [0x00007FF72E0C7133]
+	(No symbol) [0x00007FF72E0904D1]
+	(No symbol) [0x00007FF72E091263]
+	GetHandleVerifier [0x00007FF72E54A8ED+2962317]
+	GetHandleVerifier [0x00007FF72E544EC2+2939234]
+	GetHandleVerifier [0x00007FF72E562FF3+3062419]
+	GetHandleVerifier [0x00007FF72E2A4B9A+185914]
+	GetHandleVerifier [0x00007FF72E2AC78F+217647]
+	GetHandleVerifier [0x00007FF72E292A44+111844]
+	GetHandleVerifier [0x00007FF72E292BF2+112274]
+	GetHandleVerifier [0x00007FF72E278A79+5401]
+	BaseThreadInitThunk [0x00007FF91893E8D7+23]
+	RtlUserThreadStart [0x00007FF918F114FC+44]
+
+2025-05-02 17:15:13 [31m[1mERROR[0m Error in finding element: ('xpath', "//a[@title='Casual 3/4 Sleeve Baseball T-Shirt']") - Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF72E28A145+76773]
+	GetHandleVerifier [0x00007FF72E28A1A0+76864]
+	(No symbol) [0x00007FF72E048F7A]
+	(No symbol) [0x00007FF72E09F496]
+	(No symbol) [0x00007FF72E09F74C]
+	(No symbol) [0x00007FF72E0F2287]
+	(No symbol) [0x00007FF72E0C739F]
+	(No symbol) [0x00007FF72E0EF0CF]
+	(No symbol) [0x00007FF72E0C7133]
+	(No symbol) [0x00007FF72E0904D1]
+	(No symbol) [0x00007FF72E091263]
+	GetHandleVerifier [0x00007FF72E54A8ED+2962317]
+	GetHandleVerifier [0x00007FF72E544EC2+2939234]
+	GetHandleVerifier [0x00007FF72E562FF3+3062419]
+	GetHandleVerifier [0x00007FF72E2A4B9A+185914]
+	GetHandleVerifier [0x00007FF72E2AC78F+217647]
+	GetHandleVerifier [0x00007FF72E292A44+111844]
+	GetHandleVerifier [0x00007FF72E292BF2+112274]
+	GetHandleVerifier [0x00007FF72E278A79+5401]
+	BaseThreadInitThunk [0x00007FF91893E8D7+23]
+	RtlUserThreadStart [0x00007FF918F114FC+44]
+
+2025-05-02 17:15:13 [32mINFO[0m Screenshot Saved Successfully
+2025-05-02 17:15:13 [31m[1mERROR[0m Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF72E28A145+76773]
+	GetHandleVerifier [0x00007FF72E28A1A0+76864]
+	(No symbol) [0x00007FF72E048F7A]
+	(No symbol) [0x00007FF72E09F496]
+	(No symbol) [0x00007FF72E09F74C]
+	(No symbol) [0x00007FF72E0F2287]
+	(No symbol) [0x00007FF72E0C739F]
+	(No symbol) [0x00007FF72E0EF0CF]
+	(No symbol) [0x00007FF72E0C7133]
+	(No symbol) [0x00007FF72E0904D1]
+	(No symbol) [0x00007FF72E091263]
+	GetHandleVerifier [0x00007FF72E54A8ED+2962317]
+	GetHandleVerifier [0x00007FF72E544EC2+2939234]
+	GetHandleVerifier [0x00007FF72E562FF3+3062419]
+	GetHandleVerifier [0x00007FF72E2A4B9A+185914]
+	GetHandleVerifier [0x00007FF72E2AC78F+217647]
+	GetHandleVerifier [0x00007FF72E292A44+111844]
+	GetHandleVerifier [0x00007FF72E292BF2+112274]
+	GetHandleVerifier [0x00007FF72E278A79+5401]
+	BaseThreadInitThunk [0x00007FF91893E8D7+23]
+	RtlUserThreadStart [0x00007FF918F114FC+44]
+
+2025-05-02 17:15:13 [32mINFO[0m User clicked the add to cart button.
+2025-05-02 17:15:13 [32mINFO[0m Waiting for element: //a[@href='#' and @class ='cart']
+2025-05-02 17:15:15 [32mINFO[0m Clicked on element: ('xpath', "//a[@href='#' and @class ='cart']")
+2025-05-02 17:15:16 [32mINFO[0m Screenshot Saved Successfully
+2025-05-02 17:15:16 [32mINFO[0m The test details is entered into the database
+2025-05-02 17:15:16 [32mINFO[0m Clicked 'Add to Cart' button.
+2025-05-02 17:15:16 [32mINFO[0m User clicked the add to cart button.

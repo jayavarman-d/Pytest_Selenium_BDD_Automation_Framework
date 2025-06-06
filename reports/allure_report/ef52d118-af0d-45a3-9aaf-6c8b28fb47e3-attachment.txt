@@ -1,0 +1,17 @@
+2025-05-02 17:14:41 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:14:43 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:14:43 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:14:43 [32mINFO[0m Navigated to the Home Page.
+2025-05-02 17:14:43 [32mINFO[0m User is on the homepage for search.
+2025-05-02 17:14:43 [32mINFO[0m Waiting for element: //input[@id='filter_keyword']
+2025-05-02 17:14:43 [32mINFO[0m Clicked on element: ('xpath', "//input[@id='filter_keyword']")
+2025-05-02 17:14:43 [32mINFO[0m Waiting for element: //input[@id='filter_keyword']
+2025-05-02 17:14:43 [32mINFO[0m Sent value to element: ('xpath', "//input[@id='filter_keyword']") with value: Shirts
+2025-05-02 17:14:43 [32mINFO[0m Searched for 'Shirts' in the search bar.
+2025-05-02 17:14:43 [32mINFO[0m User clicked on the search bar.
+2025-05-02 17:14:43 [32mINFO[0m Waiting for element: //div[@class='button-in-search']
+2025-05-02 17:14:46 [32mINFO[0m Clicked on element: ('xpath', "//div[@class='button-in-search']")
+2025-05-02 17:14:46 [32mINFO[0m Clicked the search button and searched the product.
+2025-05-02 17:14:46 [32mINFO[0m Waiting for element: //span[@class = 'bgnone']
+2025-05-02 17:14:46 [32mINFO[0m Got text from element: ('xpath', "//span[@class = 'bgnone']") - Text: Fruit of the Loom T-Shirts 5 Pack - Super Premium
+2025-05-02 17:14:46 [32mINFO[0m User clicked on the search button.

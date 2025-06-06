@@ -1,0 +1,216 @@
+2025-01-29 16:49:47,325 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-29 16:49:48,721 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-29 16:49:54,200 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-29 16:49:56,670 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-29 16:49:58,902 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-29 16:49:58,984 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-29 16:49:59,281 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-29 16:50:03,532 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-29 16:50:06,602 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-01-30 15:41:57,553 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-30 15:41:59,285 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-30 15:42:05,192 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-30 15:42:07,191 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-30 15:42:08,978 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-30 15:42:09,175 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-30 15:42:09,511 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-30 15:42:14,656 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-30 15:42:17,851 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-01-30 15:46:00,790 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-30 15:46:02,729 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-30 15:46:08,371 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-30 15:46:10,468 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-30 15:46:12,609 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-30 15:46:12,945 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-30 15:46:13,292 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-30 15:46:17,737 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-30 15:46:20,956 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-01-30 16:54:55,339 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-30 16:54:57,321 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-30 16:55:03,313 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-30 16:55:05,377 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-30 16:55:07,144 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-30 16:55:07,341 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-30 16:55:07,676 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-30 16:55:12,244 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-30 16:55:15,485 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-01-30 21:25:03,399 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-30 21:25:04,805 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-30 21:25:09,731 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-30 21:25:11,956 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-30 21:25:13,716 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-30 21:25:13,812 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-30 21:25:14,116 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-30 21:25:18,797 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-30 21:25:21,908 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-01-30 21:29:18,515 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-30 21:29:20,002 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-30 21:29:25,234 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-30 21:29:27,072 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-30 21:29:29,098 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-30 21:29:29,182 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-30 21:29:29,499 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-30 21:29:34,039 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-30 21:29:37,108 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-01-30 21:38:19,889 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-30 21:38:21,602 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-30 21:38:27,831 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-30 21:38:30,124 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-30 21:38:33,018 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-30 21:38:33,251 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-30 21:38:33,586 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-30 21:38:38,017 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-30 21:38:41,244 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-01-31 17:51:55,221 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-01-31 17:51:56,742 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-01-31 17:52:02,645 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-01-31 17:52:04,795 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-01-31 17:52:07,769 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-01-31 17:52:07,955 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-01-31 17:52:08,284 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-01-31 17:52:13,715 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-01-31 17:52:16,930 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-02 16:25:38,184 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-02 16:25:39,855 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-02 16:25:45,186 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-02 16:25:46,984 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-02 16:25:48,516 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-02 16:25:48,731 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-02 16:25:49,081 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-02 16:25:53,430 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-02 16:25:56,623 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-02 18:13:43,617 - steps.test_wishlist_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:18:18,030 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-02 18:18:19,837 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-02 18:18:25,473 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-02 18:18:27,592 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-02 18:18:29,132 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-02 18:18:29,317 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-02 18:18:29,685 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-02 18:18:31,024 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-02 18:18:31,273 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-02 18:41:30,277 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-02 18:41:31,752 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-02 18:41:36,801 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-02 18:41:38,625 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-02 18:41:40,053 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-02 18:41:40,234 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-02 18:41:40,553 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-02 18:41:41,779 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-02 18:41:41,947 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-02 19:14:32,942 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-02 19:14:34,399 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-02 19:14:39,111 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-02 19:14:40,780 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-02 19:14:42,162 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-02 19:14:42,246 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-02 19:14:42,559 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-02 19:14:43,713 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-02 19:14:43,832 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-03 00:02:15,867 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-03 00:02:17,197 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-03 00:02:21,996 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-03 00:02:23,688 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-03 00:02:25,300 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-03 00:02:25,435 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-03 00:02:25,977 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-03 00:02:27,176 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-03 00:02:27,356 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-03 00:06:31,151 - steps.test_wishlist_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770BBF4F5]
+	(No symbol) [0x00007FF770C66247]
+	(No symbol) [0x00007FF770C7ECE2]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:18:29,066 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-03 00:18:30,321 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-03 00:18:34,934 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-03 00:18:37,502 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-03 00:18:38,849 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-03 00:18:38,928 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-03 00:18:39,242 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-03 00:18:40,355 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-03 00:18:40,449 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-03 13:54:43,205 - steps.test_wishlist_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:58:45,495 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-03 13:58:46,919 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-03 13:58:52,369 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-03 13:58:54,410 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-03 13:58:55,972 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-03 13:58:56,237 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-03 13:58:56,560 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-03 13:58:57,826 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-03 13:58:58,053 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.
+2025-02-03 16:36:23,692 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-02-03 16:36:26,156 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-02-03 16:36:31,788 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-02-03 16:36:33,796 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-02-03 16:36:35,320 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-02-03 16:36:35,518 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-02-03 16:36:35,884 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-02-03 16:36:37,292 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-02-03 16:36:37,543 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.

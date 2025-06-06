@@ -1,0 +1,168 @@
+2025-02-02 17:39:21,554 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 17:39:23,546 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 17:39:34,113 - steps.test_product_bug - ERROR - Failed to select product: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A8D91BE]
+	(No symbol) [0x00007FF63A8D94AC]
+	(No symbol) [0x00007FF63A922647]
+	(No symbol) [0x00007FF63A8FF33F]
+	(No symbol) [0x00007FF63A91F412]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 17:40:41,630 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 17:40:43,227 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 17:40:43,232 - steps.test_product_bug - ERROR - Failed to select product: 'ProductPage' object has no attribute 'select_product'
+2025-02-02 17:41:18,704 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 17:41:20,511 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 17:41:22,176 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 17:41:33,358 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 17:41:34,939 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 17:46:07,906 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 17:46:10,710 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 17:46:12,759 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 17:46:23,847 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 17:46:25,508 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 17:53:04,207 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 17:53:05,808 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 17:53:07,347 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 17:53:18,344 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 17:53:19,940 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 18:06:40,070 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 18:06:41,681 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 18:06:43,530 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 18:06:54,625 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 18:06:56,475 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 18:13:18,411 - steps.test_product_bug - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:16:42,202 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 18:16:43,893 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 18:16:45,478 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 18:16:56,533 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 18:16:58,260 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 18:40:01,549 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 18:40:03,127 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 18:40:04,867 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 18:40:16,019 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 18:40:17,701 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 19:09:39,812 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 19:09:41,266 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 19:09:42,855 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 19:09:53,669 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 19:09:55,138 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 19:13:02,296 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-02 19:13:03,691 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-02 19:13:05,262 - steps.test_product_bug - INFO - User selected the product.
+2025-02-02 19:13:16,059 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-02 19:13:17,476 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:00:55,302 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 00:00:56,659 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 00:00:58,149 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 00:01:08,917 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:01:10,456 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:05:50,904 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 00:05:52,252 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 00:05:53,710 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 00:06:04,380 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:06:05,866 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:07:24,651 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 00:07:26,019 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 00:07:27,328 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 00:07:38,011 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:07:39,633 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:10:19,394 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 00:10:20,846 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 00:10:22,122 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 00:10:32,864 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:10:34,399 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:14:01,296 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 00:14:02,660 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 00:14:04,135 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 00:14:14,840 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:14:16,411 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:17:14,962 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 00:17:16,271 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 00:17:17,509 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 00:17:28,189 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 00:17:29,515 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 10:51:32,369 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 10:51:33,972 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 10:51:35,678 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 10:51:46,535 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 10:51:48,543 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 11:23:12,602 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 11:23:14,156 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 11:23:16,128 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 11:23:26,957 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 11:23:28,652 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 13:54:31,337 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 13:54:31,666 - steps.test_product_bug - ERROR - Failed to navigate to navbar: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A1A1230C]
+	(No symbol) [0x00007FF6A1A3447A]
+	(No symbol) [0x00007FF6A1ABF75A]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:57:17,512 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 13:57:19,061 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 13:57:20,895 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 13:57:31,774 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 13:57:33,748 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 16:34:59,936 - steps.test_product_bug - INFO - User is on the homepage.
+2025-02-03 16:35:01,556 - steps.test_product_bug - INFO - User navigated to the navbar.
+2025-02-03 16:35:03,131 - steps.test_product_bug - INFO - User selected the product.
+2025-02-03 16:35:13,985 - steps.test_product_bug - INFO - User clicked the add to cart button.
+2025-02-03 16:35:15,827 - steps.test_product_bug - INFO - User clicked the add to cart button.

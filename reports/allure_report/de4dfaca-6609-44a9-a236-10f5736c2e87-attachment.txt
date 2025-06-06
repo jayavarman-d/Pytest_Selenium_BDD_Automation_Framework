@@ -1,0 +1,17 @@
+2025-05-02 17:16:12,530 - base_class_logger - INFO - Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:16:12,570 - base_class_logger - INFO - Found element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:16:14,157 - base_class_logger - INFO - Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="31950014769ffd80f58cdf8360aecea4", element="f.251B8BF5078F5497D4319BA575E94DB5.d.2BF3B9CE693B01BE7A7E3FC930926D4B.e.362")>
+2025-05-02 17:16:14,157 - pages.Homepage - INFO - Navigated to Sign-In Page.
+2025-05-02 17:16:14,157 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-05-02 17:16:14,183 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:14,379 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='loginname']") with value: "Demo"
+2025-05-02 17:16:14,381 - pages.Homepage - INFO - Entered username in the Sign-In field.
+2025-05-02 17:16:14,381 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-05-02 17:16:14,384 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:16:14,568 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='password']") with value: "demo866"
+2025-05-02 17:16:14,568 - pages.Homepage - INFO - Entered password in the Sign-In field.
+2025-05-02 17:16:14,572 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-05-02 17:16:14,572 - base_class_logger - INFO - Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:16:15,102 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:16:15,102 - pages.Homepage - INFO - Clicked the Sign-In button.
+2025-05-02 17:16:15,103 - steps.test_signin_steps - INFO - User clicked the signin button.

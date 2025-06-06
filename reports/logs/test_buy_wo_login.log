@@ -1,0 +1,220 @@
+2025-01-29 16:48:51,776 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-29 16:48:53,186 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-29 16:48:57,995 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-29 16:49:00,166 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-29 16:49:02,004 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-29 16:49:04,099 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-29 16:49:06,109 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-29 16:49:08,005 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-29 16:49:08,137 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-29 16:49:08,187 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-01-30 15:42:07,926 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-30 15:42:09,579 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-30 15:42:15,033 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 15:42:17,506 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-30 15:42:20,310 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-30 15:42:21,982 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-30 15:42:23,960 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-30 15:42:26,651 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-30 15:42:26,864 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-30 15:42:26,985 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-01-30 15:45:30,272 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-30 15:45:31,989 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-30 15:45:37,918 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 15:45:39,913 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-30 15:45:41,825 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-30 15:45:43,644 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-30 15:45:45,632 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-30 15:45:48,085 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-30 15:45:48,352 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-30 15:45:48,412 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-01-30 16:54:24,923 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-30 16:54:26,425 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-30 16:54:32,294 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 16:54:34,137 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-30 16:54:35,810 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-30 16:54:37,539 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-30 16:54:39,737 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-30 16:54:43,104 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-30 16:54:43,355 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-30 16:54:43,408 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-01-30 19:45:05,501 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-30 19:45:07,747 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-30 19:45:14,248 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 19:45:17,133 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-30 19:45:19,721 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-30 19:45:21,896 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-30 19:45:50,874 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-30 19:45:52,648 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-30 19:45:58,626 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 19:46:00,804 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-30 19:46:03,081 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-30 19:46:05,153 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-30 19:46:07,176 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-30 19:46:10,000 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-30 19:46:10,299 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-30 19:46:10,356 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-01-30 21:28:54,852 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-30 21:28:56,341 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-30 21:29:01,287 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 21:29:03,508 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-30 21:29:05,643 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-30 21:29:07,775 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-30 21:29:09,579 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-30 21:29:12,030 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-30 21:29:12,234 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-30 21:29:12,275 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-01-30 21:35:58,760 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-30 21:36:00,582 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-30 21:36:06,481 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-30 21:36:09,193 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-30 21:36:12,064 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-30 21:36:14,657 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-30 21:36:16,907 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-30 21:36:19,456 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-30 21:36:19,665 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-30 21:36:19,742 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-01-31 17:49:34,984 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-01-31 17:49:36,472 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-01-31 17:49:42,650 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-01-31 17:49:45,648 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-01-31 17:49:47,860 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-01-31 17:49:51,827 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-01-31 17:49:54,542 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-01-31 17:49:57,410 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-01-31 17:49:57,688 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-01-31 17:49:57,738 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-01 15:23:49,463 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-01 15:23:51,085 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-01 15:23:56,747 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-01 15:23:58,852 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-01 15:24:00,664 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-01 15:24:02,480 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-01 15:24:04,218 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-01 15:24:06,653 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-01 15:24:07,034 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-01 15:24:09,014 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-02 16:23:38,654 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-02 16:23:40,364 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-02 16:23:45,738 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 16:23:47,586 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-02 16:23:49,394 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-02 16:23:51,129 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-02 16:23:52,825 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-02 16:23:55,469 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-02 16:23:55,735 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-02 16:23:57,717 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-02 18:12:32,132 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-02 18:12:33,735 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-02 18:12:39,062 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 18:12:40,930 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-02 18:12:42,549 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-02 18:12:44,016 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-02 18:12:45,608 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-02 18:12:47,864 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-02 18:12:48,115 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-02 18:12:50,054 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-02 18:15:46,521 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-02 18:15:48,069 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-02 18:15:53,378 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 18:15:55,245 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-02 18:15:56,837 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-02 18:15:58,351 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-02 18:15:59,851 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-02 18:16:01,979 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-02 18:16:02,186 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-02 18:16:04,121 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-02 18:39:09,412 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-02 18:39:11,257 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-02 18:39:16,853 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 18:39:18,873 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-02 18:39:20,552 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-02 18:39:22,111 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-02 18:39:23,804 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-02 18:39:25,809 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-02 18:39:26,075 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-02 18:39:27,745 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-02 19:12:11,875 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-02 19:12:13,323 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-02 19:12:18,084 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-02 19:12:19,754 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-02 19:12:21,163 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-02 19:12:22,498 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-02 19:12:23,926 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-02 19:12:25,754 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-02 19:12:25,836 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-02 19:12:27,578 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-03 00:00:12,764 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-03 00:00:14,079 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-03 00:00:18,682 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 00:00:20,267 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-03 00:00:21,780 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-03 00:00:23,135 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-03 00:00:24,480 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-03 00:00:26,269 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-03 00:00:26,349 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-03 00:00:28,025 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-03 00:05:07,983 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-03 00:05:09,270 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-03 00:05:13,844 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 00:05:15,395 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-03 00:05:16,963 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-03 00:05:18,832 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-03 00:05:20,169 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-03 00:05:21,986 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-03 00:05:22,079 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-03 00:05:23,816 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-03 00:16:32,013 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-03 00:16:33,304 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-03 00:16:37,920 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 00:16:39,517 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-03 00:16:41,054 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-03 00:16:42,915 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-03 00:16:44,262 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-03 00:16:46,100 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-03 00:16:46,200 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-03 00:16:47,967 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-03 13:54:08,765 - steps.test_full_flow_steps - ERROR - Failed to navigate to homepage: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:56:28,269 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-03 13:56:29,719 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-03 13:56:34,908 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 13:56:36,758 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-03 13:56:38,534 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-03 13:56:40,341 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-03 13:56:42,017 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-03 13:56:44,258 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-03 13:56:44,477 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-03 13:56:46,309 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.
+2025-02-03 16:34:10,067 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-02-03 16:34:11,572 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-02-03 16:34:17,091 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-02-03 16:34:19,274 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-02-03 16:34:20,829 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-02-03 16:34:22,291 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-02-03 16:34:23,857 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-02-03 16:34:26,008 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-02-03 16:34:26,236 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-02-03 16:34:28,252 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.

@@ -1,0 +1,540 @@
+2025-01-29 16:49:58,902 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-29 16:49:58,984 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-29 16:49:59,281 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-29 16:50:03,532 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-29 16:50:06,602 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-01-30 15:42:08,978 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-30 15:42:09,166 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-30 15:42:09,511 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-30 15:42:14,656 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-30 15:42:17,851 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-01-30 15:46:12,609 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-30 15:46:12,945 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-30 15:46:13,292 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-30 15:46:17,737 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-30 15:46:20,955 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-01-30 16:55:07,144 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-30 16:55:07,340 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-30 16:55:07,676 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-30 16:55:12,243 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-30 16:55:15,485 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-01-30 21:25:13,716 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-30 21:25:13,812 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-30 21:25:14,116 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-30 21:25:18,797 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-30 21:25:21,908 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-01-30 21:29:29,098 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-30 21:29:29,181 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-30 21:29:29,499 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-30 21:29:34,039 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-30 21:29:37,108 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-01-30 21:38:33,016 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-30 21:38:33,251 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-30 21:38:33,586 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-30 21:38:38,017 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-30 21:38:41,244 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-01-31 17:52:07,768 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-01-31 17:52:07,954 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-01-31 17:52:08,284 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-01-31 17:52:13,715 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-01-31 17:52:16,930 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-02 16:25:48,514 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-02 16:25:48,731 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-02 16:25:49,081 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-02 16:25:53,430 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-02 16:25:56,623 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-02 17:41:22,176 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 17:41:33,358 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A8D91BE]
+	(No symbol) [0x00007FF63A8D94AC]
+	(No symbol) [0x00007FF63A922647]
+	(No symbol) [0x00007FF63A8FF33F]
+	(No symbol) [0x00007FF63A91F412]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 17:46:12,759 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 17:46:23,847 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A8D91BE]
+	(No symbol) [0x00007FF63A8D94AC]
+	(No symbol) [0x00007FF63A922647]
+	(No symbol) [0x00007FF63A8FF33F]
+	(No symbol) [0x00007FF63A91F412]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 17:53:07,347 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 17:53:18,343 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A8D91BE]
+	(No symbol) [0x00007FF63A8D94AC]
+	(No symbol) [0x00007FF63A922647]
+	(No symbol) [0x00007FF63A8FF33F]
+	(No symbol) [0x00007FF63A91F412]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:06:43,530 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 18:06:54,625 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A8D91BE]
+	(No symbol) [0x00007FF63A8D94AC]
+	(No symbol) [0x00007FF63A922647]
+	(No symbol) [0x00007FF63A8FF33F]
+	(No symbol) [0x00007FF63A91F412]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:16:45,477 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 18:16:56,533 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A8D91BE]
+	(No symbol) [0x00007FF63A8D94AC]
+	(No symbol) [0x00007FF63A922647]
+	(No symbol) [0x00007FF63A8FF33F]
+	(No symbol) [0x00007FF63A91F412]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:18:29,125 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-02 18:18:29,317 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-02 18:18:29,685 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-02 18:18:31,024 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-02 18:18:31,273 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-02 18:40:04,847 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 18:40:16,019 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A8D91BE]
+	(No symbol) [0x00007FF63A8D94AC]
+	(No symbol) [0x00007FF63A922647]
+	(No symbol) [0x00007FF63A8FF33F]
+	(No symbol) [0x00007FF63A91F412]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:41:40,053 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-02 18:41:40,234 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-02 18:41:40,551 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-02 18:41:41,779 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-02 18:41:41,947 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-02 19:09:42,855 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 19:09:53,669 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF762FF6CC5+28821]
+	(No symbol) [0x00007FF762F63850]
+	(No symbol) [0x00007FF762E0578A]
+	(No symbol) [0x00007FF762E591BE]
+	(No symbol) [0x00007FF762E594AC]
+	(No symbol) [0x00007FF762EA2647]
+	(No symbol) [0x00007FF762E7F33F]
+	(No symbol) [0x00007FF762E9F412]
+	(No symbol) [0x00007FF762E7F0A3]
+	(No symbol) [0x00007FF762E4A778]
+	(No symbol) [0x00007FF762E4B8E1]
+	GetHandleVerifier [0x00007FF76332FCCD+3408029]
+	GetHandleVerifier [0x00007FF76334743F+3504143]
+	GetHandleVerifier [0x00007FF76333B61D+3455469]
+	GetHandleVerifier [0x00007FF7630BBDCB+835995]
+	(No symbol) [0x00007FF762F6EB6F]
+	(No symbol) [0x00007FF762F6A824]
+	(No symbol) [0x00007FF762F6A9BD]
+	(No symbol) [0x00007FF762F5A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 19:13:05,242 - pages.Productpage - INFO - Selected product to cart.
+2025-02-02 19:13:16,059 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF762FF6CC5+28821]
+	(No symbol) [0x00007FF762F63850]
+	(No symbol) [0x00007FF762E0578A]
+	(No symbol) [0x00007FF762E591BE]
+	(No symbol) [0x00007FF762E594AC]
+	(No symbol) [0x00007FF762EA2647]
+	(No symbol) [0x00007FF762E7F33F]
+	(No symbol) [0x00007FF762E9F412]
+	(No symbol) [0x00007FF762E7F0A3]
+	(No symbol) [0x00007FF762E4A778]
+	(No symbol) [0x00007FF762E4B8E1]
+	GetHandleVerifier [0x00007FF76332FCCD+3408029]
+	GetHandleVerifier [0x00007FF76334743F+3504143]
+	GetHandleVerifier [0x00007FF76333B61D+3455469]
+	GetHandleVerifier [0x00007FF7630BBDCB+835995]
+	(No symbol) [0x00007FF762F6EB6F]
+	(No symbol) [0x00007FF762F6A824]
+	(No symbol) [0x00007FF762F6A9BD]
+	(No symbol) [0x00007FF762F5A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 19:14:42,162 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-02 19:14:42,246 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-02 19:14:42,559 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-02 19:14:43,713 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-02 19:14:43,831 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-03 00:00:58,149 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 00:01:08,917 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770C391BE]
+	(No symbol) [0x00007FF770C394AC]
+	(No symbol) [0x00007FF770C82647]
+	(No symbol) [0x00007FF770C5F33F]
+	(No symbol) [0x00007FF770C7F412]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:01:10,456 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 00:02:25,300 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-03 00:02:25,434 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-03 00:02:25,977 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-03 00:02:27,176 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-03 00:02:27,355 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-03 00:05:53,710 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 00:06:04,380 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770C391BE]
+	(No symbol) [0x00007FF770C394AC]
+	(No symbol) [0x00007FF770C82647]
+	(No symbol) [0x00007FF770C5F33F]
+	(No symbol) [0x00007FF770C7F412]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:06:05,865 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 00:07:27,328 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 00:07:38,011 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770C391BE]
+	(No symbol) [0x00007FF770C394AC]
+	(No symbol) [0x00007FF770C82647]
+	(No symbol) [0x00007FF770C5F33F]
+	(No symbol) [0x00007FF770C7F412]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:07:39,633 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 00:10:22,122 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 00:10:32,863 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770C391BE]
+	(No symbol) [0x00007FF770C394AC]
+	(No symbol) [0x00007FF770C82647]
+	(No symbol) [0x00007FF770C5F33F]
+	(No symbol) [0x00007FF770C7F412]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:10:34,399 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 00:14:04,135 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 00:14:14,840 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770C391BE]
+	(No symbol) [0x00007FF770C394AC]
+	(No symbol) [0x00007FF770C82647]
+	(No symbol) [0x00007FF770C5F33F]
+	(No symbol) [0x00007FF770C7F412]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:14:16,411 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 00:17:17,508 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 00:17:28,189 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770C391BE]
+	(No symbol) [0x00007FF770C394AC]
+	(No symbol) [0x00007FF770C82647]
+	(No symbol) [0x00007FF770C5F33F]
+	(No symbol) [0x00007FF770C7F412]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:17:29,515 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 00:18:38,849 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-03 00:18:38,928 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-03 00:18:39,241 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-03 00:18:40,355 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-03 00:18:40,449 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-03 10:51:35,676 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 10:51:46,535 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E3596CC5+28821]
+	(No symbol) [0x00007FF6E3503850]
+	(No symbol) [0x00007FF6E33A578A]
+	(No symbol) [0x00007FF6E33F91BE]
+	(No symbol) [0x00007FF6E33F94AC]
+	(No symbol) [0x00007FF6E3442647]
+	(No symbol) [0x00007FF6E341F33F]
+	(No symbol) [0x00007FF6E343F412]
+	(No symbol) [0x00007FF6E341F0A3]
+	(No symbol) [0x00007FF6E33EA778]
+	(No symbol) [0x00007FF6E33EB8E1]
+	GetHandleVerifier [0x00007FF6E38CFCCD+3408029]
+	GetHandleVerifier [0x00007FF6E38E743F+3504143]
+	GetHandleVerifier [0x00007FF6E38DB61D+3455469]
+	GetHandleVerifier [0x00007FF6E365BDCB+835995]
+	(No symbol) [0x00007FF6E350EB6F]
+	(No symbol) [0x00007FF6E350A824]
+	(No symbol) [0x00007FF6E350A9BD]
+	(No symbol) [0x00007FF6E34FA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 10:51:48,543 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 11:23:16,128 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 11:23:26,957 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E3596CC5+28821]
+	(No symbol) [0x00007FF6E3503850]
+	(No symbol) [0x00007FF6E33A578A]
+	(No symbol) [0x00007FF6E33F91BE]
+	(No symbol) [0x00007FF6E33F94AC]
+	(No symbol) [0x00007FF6E3442647]
+	(No symbol) [0x00007FF6E341F33F]
+	(No symbol) [0x00007FF6E343F412]
+	(No symbol) [0x00007FF6E341F0A3]
+	(No symbol) [0x00007FF6E33EA778]
+	(No symbol) [0x00007FF6E33EB8E1]
+	GetHandleVerifier [0x00007FF6E38CFCCD+3408029]
+	GetHandleVerifier [0x00007FF6E38E743F+3504143]
+	GetHandleVerifier [0x00007FF6E38DB61D+3455469]
+	GetHandleVerifier [0x00007FF6E365BDCB+835995]
+	(No symbol) [0x00007FF6E350EB6F]
+	(No symbol) [0x00007FF6E350A824]
+	(No symbol) [0x00007FF6E350A9BD]
+	(No symbol) [0x00007FF6E34FA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 11:23:28,652 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 13:57:20,894 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 13:57:31,772 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A1A791BE]
+	(No symbol) [0x00007FF6A1A794AC]
+	(No symbol) [0x00007FF6A1AC2647]
+	(No symbol) [0x00007FF6A1A9F33F]
+	(No symbol) [0x00007FF6A1ABF412]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:57:33,747 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 13:58:55,972 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-03 13:58:56,236 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-03 13:58:56,559 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-03 13:58:57,825 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-03 13:58:58,053 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-02-03 16:35:03,129 - pages.Productpage - INFO - Selected product to cart.
+2025-02-03 16:35:13,984 - pages.Productpage - ERROR - Failed to selects the size : Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF781796CC5+28821]
+	(No symbol) [0x00007FF781703850]
+	(No symbol) [0x00007FF7815A578A]
+	(No symbol) [0x00007FF7815F91BE]
+	(No symbol) [0x00007FF7815F94AC]
+	(No symbol) [0x00007FF781642647]
+	(No symbol) [0x00007FF78161F33F]
+	(No symbol) [0x00007FF78163F412]
+	(No symbol) [0x00007FF78161F0A3]
+	(No symbol) [0x00007FF7815EA778]
+	(No symbol) [0x00007FF7815EB8E1]
+	GetHandleVerifier [0x00007FF781ACFCCD+3408029]
+	GetHandleVerifier [0x00007FF781AE743F+3504143]
+	GetHandleVerifier [0x00007FF781ADB61D+3455469]
+	GetHandleVerifier [0x00007FF78185BDCB+835995]
+	(No symbol) [0x00007FF78170EB6F]
+	(No symbol) [0x00007FF78170A824]
+	(No symbol) [0x00007FF78170A9BD]
+	(No symbol) [0x00007FF7816FA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 16:35:15,827 - pages.Productpage - INFO - Clicked 'Add to Cart' button.
+2025-02-03 16:36:35,320 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-02-03 16:36:35,518 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-02-03 16:36:35,883 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-02-03 16:36:37,291 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-02-03 16:36:37,542 - pages.Wishlist - INFO - Successfully removed product from wishlist.
