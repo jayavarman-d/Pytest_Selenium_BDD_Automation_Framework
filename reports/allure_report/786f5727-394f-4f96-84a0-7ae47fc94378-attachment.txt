@@ -1,0 +1,26 @@
+2025-05-02 17:16:39,138 - base_class_logger - INFO - Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:16:39,196 - base_class_logger - INFO - Found element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:16:40,968 - base_class_logger - INFO - Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="b1c311c0310e98d6fc893b6341af37bc", element="f.907F9972E4932A7DF285B05137F2BE2A.d.42E9E01174B95A0F5B7C916BA5DC88B5.e.42")>
+2025-05-02 17:16:40,970 - pages.Homepage - INFO - Navigated to Sign-In Page.
+2025-05-02 17:16:40,970 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-05-02 17:16:40,972 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:41,160 - base_class_logger - INFO - Cleared text of element: ('xpath', "//input[@name='loginname']")
+2025-05-02 17:16:41,167 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:41,328 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='loginname']") with value: Demo866
+2025-05-02 17:16:41,328 - pages.Homepage - INFO - Entered valid username in the Sign-In field.
+2025-05-02 17:16:41,328 - steps.test_signin_steps - INFO - User entered valid username:
+2025-05-02 17:16:41,328 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:16:41,455 - base_class_logger - INFO - Cleared text of element: ('xpath', "//input[@name='password']")
+2025-05-02 17:16:41,457 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:16:41,706 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='password']") with value: Demo866ta
+2025-05-02 17:16:41,710 - pages.Homepage - INFO - Entered valid password in the Sign-In field.
+2025-05-02 17:16:41,710 - steps.test_signin_steps - INFO - User entered valid password:
+2025-05-02 17:16:41,710 - base_class_logger - INFO - Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:16:41,859 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:16:41,861 - pages.Homepage - INFO - Clicked the Sign-In button.
+2025-05-02 17:16:41,861 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-05-02 17:16:41,863 - base_class_logger - INFO - Waiting for element: //span[@class='maintext']
+2025-05-02 17:16:43,466 - base_class_logger - INFO - Got text from element: ('xpath', "//span[@class='maintext']") - Text: MY ACCOUNT
+2025-05-02 17:16:43,469 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:16:43,470 - pages.Homepage - INFO - Sign-In failed with message: MY ACCOUNT
+2025-05-02 17:16:43,470 - steps.test_signin_steps - INFO - User logged in Successfully.

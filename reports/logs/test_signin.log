@@ -1,0 +1,305 @@
+2025-01-29 16:49:37,379 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-29 16:49:37,539 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-29 16:49:40,742 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-29 16:49:42,158 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-29 16:50:02,427 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-29 16:50:02,566 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-29 16:50:02,658 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-29 16:50:04,352 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 15:41:44,602 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 15:41:44,849 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-30 15:41:45,109 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-30 15:41:46,407 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 15:42:15,172 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 15:42:15,534 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-30 15:42:18,824 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-30 15:42:21,141 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 15:45:27,264 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 15:45:27,528 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-30 15:45:27,912 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-30 15:45:29,271 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 15:45:30,812 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 15:45:31,187 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-30 15:45:34,494 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-30 15:45:36,537 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 16:54:21,436 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 16:54:21,681 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-30 16:54:21,863 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-30 16:54:23,174 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 16:54:24,733 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 16:54:25,036 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-30 16:54:28,313 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-30 16:54:30,486 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 21:17:54,263 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 21:17:54,416 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-30 21:17:54,540 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-30 21:17:54,918 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 21:18:14,701 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 21:18:14,852 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-30 21:18:18,017 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-30 21:18:19,624 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 21:28:59,610 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 21:28:59,742 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-30 21:28:59,896 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-30 21:29:00,352 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 21:29:21,966 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 21:29:22,133 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-30 21:29:25,301 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-30 21:29:27,185 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 21:37:49,832 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 21:37:50,171 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-30 21:37:50,430 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-30 21:37:51,792 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-30 21:38:02,533 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-30 21:38:02,961 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-30 21:38:06,296 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-30 21:38:08,862 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-31 15:32:10,078 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-31 15:32:10,321 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-31 15:32:10,501 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-31 15:32:10,956 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-31 15:32:40,206 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-31 15:32:40,617 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-31 15:32:44,114 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-31 15:32:46,225 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-31 16:23:59,620 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-31 16:23:59,837 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-31 16:23:59,945 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-31 16:24:01,070 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-31 17:51:24,825 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-31 17:51:25,082 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-01-31 17:51:25,274 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-01-31 17:51:27,142 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-01-31 17:51:36,960 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-01-31 17:51:37,285 - steps.test_signin_steps - INFO - User entered valid username.
+2025-01-31 17:51:40,544 - steps.test_signin_steps - INFO - User entered valid password.
+2025-01-31 17:51:42,539 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 16:08:19,185 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 16:08:19,393 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-02 16:08:19,569 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-02 16:08:20,925 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 16:16:16,261 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 16:16:16,527 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-02 16:16:16,703 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-02 16:16:18,096 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 16:16:38,902 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 16:16:39,246 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-02 16:16:42,556 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-02 16:16:44,242 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 16:16:44,340 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-02 16:25:11,370 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 16:25:11,617 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-02 16:25:11,812 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-02 16:25:13,141 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 16:25:22,949 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 16:25:23,328 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-02 16:25:26,636 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-02 16:25:28,109 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 16:25:28,205 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-02 18:13:37,909 - steps.test_signin_steps - ERROR - Failed to navigate to the signin page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:13:40,992 - steps.test_signin_steps - ERROR - Failed to navigate to the signin page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:17:48,817 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 18:17:49,063 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-02 18:17:49,364 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-02 18:17:50,706 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 18:18:00,691 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 18:18:01,087 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-02 18:18:04,442 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-02 18:18:06,111 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 18:18:06,245 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-02 18:41:05,209 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 18:41:05,411 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-02 18:41:05,563 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-02 18:41:06,067 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 18:41:16,087 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 18:41:16,343 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-02 18:41:19,561 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-02 18:41:21,023 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 18:41:21,094 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-02 19:13:59,901 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 19:14:00,006 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-02 19:14:00,140 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-02 19:14:01,241 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 19:14:18,952 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-02 19:14:19,137 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-02 19:14:22,318 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-02 19:14:23,624 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-02 19:14:23,652 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-03 00:01:50,806 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 00:01:50,890 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-03 00:01:50,988 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-03 00:01:51,418 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 00:01:58,951 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 00:01:59,077 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-03 00:02:02,182 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-03 00:02:03,498 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 00:02:03,547 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-03 00:06:26,480 - steps.test_signin_steps - ERROR - Failed to navigate to the signin page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770BBF4F5]
+	(No symbol) [0x00007FF770C66247]
+	(No symbol) [0x00007FF770C7ECE2]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:06:28,763 - steps.test_signin_steps - ERROR - Failed to navigate to the signin page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF770DD6CC5+28821]
+	(No symbol) [0x00007FF770D43850]
+	(No symbol) [0x00007FF770BE578A]
+	(No symbol) [0x00007FF770BBF4F5]
+	(No symbol) [0x00007FF770C66247]
+	(No symbol) [0x00007FF770C7ECE2]
+	(No symbol) [0x00007FF770C5F0A3]
+	(No symbol) [0x00007FF770C2A778]
+	(No symbol) [0x00007FF770C2B8E1]
+	GetHandleVerifier [0x00007FF77110FCCD+3408029]
+	GetHandleVerifier [0x00007FF77112743F+3504143]
+	GetHandleVerifier [0x00007FF77111B61D+3455469]
+	GetHandleVerifier [0x00007FF770E9BDCB+835995]
+	(No symbol) [0x00007FF770D4EB6F]
+	(No symbol) [0x00007FF770D4A824]
+	(No symbol) [0x00007FF770D4A9BD]
+	(No symbol) [0x00007FF770D3A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 00:18:07,091 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 00:18:07,175 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-03 00:18:07,261 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-03 00:18:08,353 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 00:18:16,025 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 00:18:16,147 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-03 00:18:19,270 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-03 00:18:20,627 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 00:18:20,660 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-03 13:54:38,706 - steps.test_signin_steps - ERROR - Failed to navigate to the signin page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:54:41,027 - steps.test_signin_steps - ERROR - Failed to navigate to the signin page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:58:18,490 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 13:58:18,685 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-03 13:58:18,845 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-03 13:58:20,163 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 13:58:28,990 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 13:58:29,354 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-03 13:58:32,613 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-03 13:58:34,344 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 13:58:34,442 - steps.test_signin_steps - INFO - User logged in Successfully.
+2025-02-03 16:35:59,534 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 16:35:59,784 - steps.test_signin_steps - INFO - User entered invalid username.
+2025-02-03 16:35:59,983 - steps.test_signin_steps - INFO - User entered invalid password.
+2025-02-03 16:36:01,180 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 16:36:09,439 - steps.test_signin_steps - INFO - User navigated to the signin page.
+2025-02-03 16:36:09,875 - steps.test_signin_steps - INFO - User entered valid username.
+2025-02-03 16:36:13,183 - steps.test_signin_steps - INFO - User entered valid password.
+2025-02-03 16:36:14,735 - steps.test_signin_steps - INFO - User clicked the signin button.
+2025-02-03 16:36:14,841 - steps.test_signin_steps - INFO - User logged in Successfully.

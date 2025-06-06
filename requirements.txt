@@ -1,0 +1,7 @@
+pyautogui
+pytest
+selenium
+pytest_bdd
+allure-pytest
+openpyxl
+pyodbc

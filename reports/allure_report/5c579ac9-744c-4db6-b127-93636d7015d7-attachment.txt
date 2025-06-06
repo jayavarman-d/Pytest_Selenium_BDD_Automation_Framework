@@ -1,0 +1,32 @@
+2025-05-02 17:15:21,731 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:15:28,540 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:15:28,546 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:15:28,546 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:15:28,549 - steps.test_product_quantity_steps - INFO - User is on the homepage.
+2025-05-02 17:15:28,569 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']
+2025-05-02 17:15:28,909 - base_class_logger - INFO - Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']")
+2025-05-02 17:15:28,912 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']
+2025-05-02 17:15:30,328 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']")
+2025-05-02 17:15:30,332 - pages.Product_Cart - INFO - Navigated to the skincare section in the navbar.
+2025-05-02 17:15:30,333 - steps.test_product_quantity_steps - INFO - User navigated to the navbar.
+2025-05-02 17:15:30,335 - base_class_logger - INFO - Waiting for element: //a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']
+2025-05-02 17:15:32,175 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']")
+2025-05-02 17:15:32,180 - pages.Product_Cart - INFO - Selected the product.
+2025-05-02 17:15:32,180 - steps.test_product_quantity_steps - INFO - User selected the product.
+2025-05-02 17:15:32,186 - base_class_logger - INFO - Waiting for element: //ul[@class='productinfo']//span[@class='productinfoleft']/parent::li
+2025-05-02 17:15:32,270 - base_class_logger - INFO - Got text from element: ('xpath', "//ul[@class='productinfo']//span[@class='productinfoleft']/parent::li") - Text: Availability:
+225 In Stock
+2025-05-02 17:15:32,271 - base_class_logger - INFO - Waiting for element: //input[@type='text' and @name ='quantity']
+2025-05-02 17:15:32,495 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@type='text' and @name ='quantity']") with value: 226
+2025-05-02 17:15:32,499 - pages.Product_Cart - INFO - Verified product quantity: 225, and entered quantity: 226.
+2025-05-02 17:15:32,500 - steps.test_product_quantity_steps - INFO - User entered the quantity into the quantity field.
+2025-05-02 17:15:32,502 - base_class_logger - INFO - Waiting for element: //a[@href='#' and @class ='cart']
+2025-05-02 17:15:34,423 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@href='#' and @class ='cart']")
+2025-05-02 17:15:34,424 - pages.Product_Cart - INFO - Clicked 'Add to Cart' button.
+2025-05-02 17:15:34,424 - steps.test_product_quantity_steps - INFO - User clicked the add to cart button.
+2025-05-02 17:15:34,426 - base_class_logger - INFO - Waiting for element: //a[@class='btn btn-orange pull-right' and @id ='cart_checkout1']
+2025-05-02 17:15:36,501 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@class='btn btn-orange pull-right' and @id ='cart_checkout1']")
+2025-05-02 17:15:36,501 - base_class_logger - INFO - Waiting for element: //div[@class='alert alert-error alert-danger']/strong
+2025-05-02 17:15:36,599 - base_class_logger - INFO - Got text from element: ('xpath', "//div[@class='alert alert-error alert-danger']/strong") - Text: Products marked with *** are not available in the desired quantity or out of stock!
+2025-05-02 17:15:36,600 - pages.Product_Cart - INFO - Checkout initiated. Confirmation message: Products marked with *** are not available in the desired quantity or out of stock!
+2025-05-02 17:15:36,600 - steps.test_product_quantity_steps - INFO - User verified that they cannot checkout due to quantity being higher than availability.

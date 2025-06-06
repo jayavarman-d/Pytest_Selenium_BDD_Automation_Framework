@@ -1,0 +1,325 @@
+2025-01-29 16:49:15,058 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-29 16:49:19,517 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-29 16:49:24,478 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-29 16:49:29,011 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-29 16:49:33,358 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-29 16:49:37,771 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-29 16:49:42,118 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-29 16:49:47,017 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-29 16:49:51,401 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-30 15:41:17,967 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-30 15:41:22,828 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-30 15:41:27,560 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-30 15:41:32,955 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-30 15:41:37,573 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-30 15:41:42,154 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-30 15:41:46,851 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-30 15:41:51,625 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-30 15:41:56,470 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-30 15:44:39,374 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-30 15:44:44,320 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-30 15:44:48,947 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-30 15:44:53,623 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-30 15:44:58,188 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-30 15:45:02,984 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-30 15:45:08,261 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-30 15:45:13,193 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-30 15:45:17,922 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-30 16:53:35,059 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-30 16:53:39,823 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-30 16:53:44,669 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-30 16:53:49,433 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-30 16:53:53,985 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-30 16:53:58,682 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-30 16:54:03,350 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-30 16:54:07,967 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-30 16:54:12,541 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-30 20:11:54,308 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-30 20:11:59,317 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-30 20:12:07,177 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-30 20:12:17,612 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-30 20:12:32,720 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-30 20:12:45,512 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-30 20:12:53,037 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-30 20:12:58,117 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-30 20:13:03,049 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-30 20:14:57,599 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-30 20:15:02,001 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-30 20:15:07,633 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-30 20:15:12,812 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-30 20:15:17,491 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-30 20:15:21,768 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-30 20:15:26,167 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-30 20:15:30,448 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-30 20:15:34,697 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-30 21:28:07,868 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-30 21:28:12,337 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-30 21:28:17,041 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-30 21:28:21,903 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-30 21:28:26,196 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-30 21:28:30,577 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-30 21:28:34,885 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-30 21:28:39,413 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-30 21:28:44,504 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-30 21:35:08,694 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-30 21:35:13,882 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-30 21:35:18,806 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-30 21:35:23,422 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-30 21:35:28,097 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-30 21:35:33,174 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-30 21:35:38,029 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-30 21:35:42,642 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-30 21:35:47,354 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-31 16:20:26,996 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-31 16:20:28,446 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-31 16:20:29,695 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-31 16:20:31,004 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-31 16:20:32,254 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-31 16:20:33,458 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-31 16:20:34,716 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-31 16:20:35,963 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-31 16:20:37,246 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-01-31 17:49:09,310 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-01-31 17:49:11,064 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-01-31 17:49:12,870 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-01-31 17:49:14,863 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-01-31 17:49:16,450 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-01-31 17:49:18,158 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-01-31 17:49:20,265 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-01-31 17:49:21,791 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-01-31 17:49:23,673 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-01 15:57:52,473 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-01 15:57:54,337 - steps.test_filters_steps - ERROR - Failed to sort by Name A-Z: Message: stale element reference: stale element not found
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B8676CC5+28821]
+	(No symbol) [0x00007FF6B85E3850]
+	(No symbol) [0x00007FF6B848578A]
+	(No symbol) [0x00007FF6B8499D94]
+	(No symbol) [0x00007FF6B8498844]
+	(No symbol) [0x00007FF6B848CF91]
+	(No symbol) [0x00007FF6B848ADB5]
+	(No symbol) [0x00007FF6B848EFCC]
+	(No symbol) [0x00007FF6B848F09F]
+	(No symbol) [0x00007FF6B84D311B]
+	(No symbol) [0x00007FF6B84FF2FA]
+	(No symbol) [0x00007FF6B84CC3F6]
+	(No symbol) [0x00007FF6B84FF510]
+	(No symbol) [0x00007FF6B851F412]
+	(No symbol) [0x00007FF6B84FF0A3]
+	(No symbol) [0x00007FF6B84CA778]
+	(No symbol) [0x00007FF6B84CB8E1]
+	GetHandleVerifier [0x00007FF6B89AFCCD+3408029]
+	GetHandleVerifier [0x00007FF6B89C743F+3504143]
+	GetHandleVerifier [0x00007FF6B89BB61D+3455469]
+	GetHandleVerifier [0x00007FF6B873BDCB+835995]
+	(No symbol) [0x00007FF6B85EEB6F]
+	(No symbol) [0x00007FF6B85EA824]
+	(No symbol) [0x00007FF6B85EA9BD]
+	(No symbol) [0x00007FF6B85DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-01 16:03:02,591 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-01 16:03:04,280 - steps.test_filters_steps - ERROR - Failed to sort by Name A-Z: Message: stale element reference: stale element not found
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B8676CC5+28821]
+	(No symbol) [0x00007FF6B85E3850]
+	(No symbol) [0x00007FF6B848578A]
+	(No symbol) [0x00007FF6B8499D94]
+	(No symbol) [0x00007FF6B8498844]
+	(No symbol) [0x00007FF6B848CF91]
+	(No symbol) [0x00007FF6B848ADB5]
+	(No symbol) [0x00007FF6B848EFCC]
+	(No symbol) [0x00007FF6B848F09F]
+	(No symbol) [0x00007FF6B84D311B]
+	(No symbol) [0x00007FF6B84FF2FA]
+	(No symbol) [0x00007FF6B84CC3F6]
+	(No symbol) [0x00007FF6B84FF510]
+	(No symbol) [0x00007FF6B851F412]
+	(No symbol) [0x00007FF6B84FF0A3]
+	(No symbol) [0x00007FF6B84CA778]
+	(No symbol) [0x00007FF6B84CB8E1]
+	GetHandleVerifier [0x00007FF6B89AFCCD+3408029]
+	GetHandleVerifier [0x00007FF6B89C743F+3504143]
+	GetHandleVerifier [0x00007FF6B89BB61D+3455469]
+	GetHandleVerifier [0x00007FF6B873BDCB+835995]
+	(No symbol) [0x00007FF6B85EEB6F]
+	(No symbol) [0x00007FF6B85EA824]
+	(No symbol) [0x00007FF6B85EA9BD]
+	(No symbol) [0x00007FF6B85DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-01 16:11:50,444 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-01 16:11:52,060 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-01 16:11:53,642 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-01 16:11:55,709 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-01 16:11:57,309 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-01 16:11:58,855 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-01 16:12:00,487 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-01 16:12:02,063 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-01 16:12:03,581 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-02 15:46:15,026 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 15:46:16,882 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 15:46:18,478 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 15:46:20,150 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-02 15:46:21,781 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-02 15:46:23,415 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-02 15:46:25,028 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-02 15:46:26,752 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-02 15:46:28,483 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-02 15:55:41,217 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 15:55:43,049 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 15:55:44,540 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 15:55:46,181 - steps.test_filters_steps - ERROR - Failed to sort by Price Low > High: assert ['$8.23', '$11.45', '$19.00', '$33.00'] == ['$11.45', '$19.00', '$33.00', '$8.23']
+  
+  At index 0 diff: '$8.23' != '$11.45'
+  
+  Full diff:
+    [
+  +     '$8.23',
+        '$11.45',
+        '$19.00',
+        '$33.00',
+  -     '$8.23',
+    ]
+2025-02-02 15:59:34,387 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 15:59:36,167 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 15:59:37,696 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 15:59:39,341 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-02 15:59:40,872 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-02 15:59:42,498 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-02 15:59:44,074 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-02 15:59:45,696 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-02 15:59:47,222 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-02 16:23:15,796 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 16:23:17,553 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 16:23:19,215 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 16:23:20,711 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-02 16:23:22,248 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-02 16:23:23,809 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-02 16:23:25,358 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-02 16:23:26,888 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-02 16:23:28,351 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-02 18:12:23,859 - steps.test_filters_steps - ERROR - Failed to navigate to the conditioner page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF63AA76CC5+28821]
+	(No symbol) [0x00007FF63A9E3850]
+	(No symbol) [0x00007FF63A88578A]
+	(No symbol) [0x00007FF63A85F4F5]
+	(No symbol) [0x00007FF63A906247]
+	(No symbol) [0x00007FF63A91ECE2]
+	(No symbol) [0x00007FF63A8FF0A3]
+	(No symbol) [0x00007FF63A8CA778]
+	(No symbol) [0x00007FF63A8CB8E1]
+	GetHandleVerifier [0x00007FF63ADAFCCD+3408029]
+	GetHandleVerifier [0x00007FF63ADC743F+3504143]
+	GetHandleVerifier [0x00007FF63ADBB61D+3455469]
+	GetHandleVerifier [0x00007FF63AB3BDCB+835995]
+	(No symbol) [0x00007FF63A9EEB6F]
+	(No symbol) [0x00007FF63A9EA824]
+	(No symbol) [0x00007FF63A9EA9BD]
+	(No symbol) [0x00007FF63A9DA1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-02 18:15:24,235 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 18:15:26,011 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 18:15:27,632 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 18:15:29,299 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-02 18:15:30,831 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-02 18:15:32,495 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-02 18:15:34,106 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-02 18:15:35,655 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-02 18:15:37,194 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-02 18:38:45,037 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 18:38:46,881 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 18:38:48,374 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 18:38:49,862 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-02 18:38:51,605 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-02 18:38:53,030 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-02 18:38:54,549 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-02 18:38:56,007 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-02 18:38:57,607 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-02 19:11:52,772 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 19:11:54,075 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 19:11:55,323 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 19:11:56,615 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-02 19:11:57,861 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-02 19:11:59,185 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-02 19:12:00,525 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-02 19:12:01,905 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-02 19:12:03,280 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-02 23:59:53,674 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-02 23:59:54,875 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-02 23:59:56,079 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-02 23:59:57,424 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-02 23:59:58,590 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-02 23:59:59,733 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-03 00:00:00,898 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-03 00:00:02,202 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-03 00:00:04,681 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-03 00:04:50,620 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-03 00:04:51,860 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-03 00:04:52,990 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-03 00:04:54,117 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-03 00:04:55,281 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-03 00:04:56,445 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-03 00:04:57,638 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-03 00:04:58,825 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-03 00:05:00,056 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-03 00:16:14,785 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-03 00:16:15,922 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-03 00:16:17,097 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-03 00:16:18,216 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-03 00:16:19,336 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-03 00:16:20,526 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-03 00:16:21,683 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-03 00:16:22,832 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-03 00:16:23,959 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-03 13:54:06,343 - steps.test_filters_steps - ERROR - Failed to navigate to the conditioner page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=132.0.6834.160)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A1C16CC5+28821]
+	(No symbol) [0x00007FF6A1B83850]
+	(No symbol) [0x00007FF6A1A2578A]
+	(No symbol) [0x00007FF6A19FF4F5]
+	(No symbol) [0x00007FF6A1AA6247]
+	(No symbol) [0x00007FF6A1ABECE2]
+	(No symbol) [0x00007FF6A1A9F0A3]
+	(No symbol) [0x00007FF6A1A6A778]
+	(No symbol) [0x00007FF6A1A6B8E1]
+	GetHandleVerifier [0x00007FF6A1F4FCCD+3408029]
+	GetHandleVerifier [0x00007FF6A1F6743F+3504143]
+	GetHandleVerifier [0x00007FF6A1F5B61D+3455469]
+	GetHandleVerifier [0x00007FF6A1CDBDCB+835995]
+	(No symbol) [0x00007FF6A1B8EB6F]
+	(No symbol) [0x00007FF6A1B8A824]
+	(No symbol) [0x00007FF6A1B8A9BD]
+	(No symbol) [0x00007FF6A1B7A1A9]
+	BaseThreadInitThunk [0x00007FF856C5E8D7+23]
+	RtlUserThreadStart [0x00007FF85895FBCC+44]
+
+2025-02-03 13:56:05,615 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-03 13:56:07,169 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-03 13:56:08,746 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-03 13:56:10,339 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-03 13:56:12,026 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-03 13:56:13,820 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-03 13:56:15,595 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-03 13:56:17,304 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-03 13:56:18,917 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.
+2025-02-03 16:33:47,717 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-02-03 16:33:49,511 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-02-03 16:33:50,966 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-02-03 16:33:52,564 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-02-03 16:33:54,152 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-02-03 16:33:56,080 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-02-03 16:33:57,729 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-02-03 16:33:59,353 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-02-03 16:34:01,074 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.

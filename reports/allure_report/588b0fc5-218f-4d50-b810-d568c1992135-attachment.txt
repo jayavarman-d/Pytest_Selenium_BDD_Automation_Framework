@@ -1,0 +1,52 @@
+2025-05-02 17:16:53,519 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:16:55,971 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:16:55,976 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:16:55,976 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:16:55,977 - steps.test_wishlist_steps - INFO - User is on the homepage.
+2025-05-02 17:16:55,998 - base_class_logger - INFO - Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:16:56,045 - base_class_logger - INFO - Found element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:16:58,074 - base_class_logger - INFO - Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="785526cf435986ee4364198697d905c2", element="f.098006C8E3F2D89876C0598EECD51FB7.d.94897790DBAB11D8F1A98AE9C7E62ECC.e.85")>
+2025-05-02 17:16:58,074 - pages.Homepage - INFO - Navigated to Sign-In Page.
+2025-05-02 17:16:58,074 - steps.test_wishlist_steps - INFO - User clicked on the login page.
+2025-05-02 17:16:58,076 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:58,232 - base_class_logger - INFO - Cleared text of element: ('xpath', "//input[@name='loginname']")
+2025-05-02 17:16:58,232 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:16:58,440 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='loginname']") with value: Demo866
+2025-05-02 17:16:58,440 - pages.Homepage - INFO - Entered valid username in the Sign-In field.
+2025-05-02 17:16:58,440 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:16:58,582 - base_class_logger - INFO - Cleared text of element: ('xpath', "//input[@name='password']")
+2025-05-02 17:16:58,582 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:16:58,742 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='password']") with value: Demo866ta
+2025-05-02 17:16:58,742 - pages.Homepage - INFO - Entered valid password in the Sign-In field.
+2025-05-02 17:16:58,747 - base_class_logger - INFO - Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:16:58,902 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:16:58,902 - pages.Homepage - INFO - Clicked the Sign-In button.
+2025-05-02 17:16:58,903 - steps.test_wishlist_steps - INFO - User successfully logged in.
+2025-05-02 17:16:58,905 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:17:02,659 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:17:02,662 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:17:02,662 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:17:02,664 - steps.test_wishlist_steps - INFO - User navigated to homepage after login.
+2025-05-02 17:17:02,664 - base_class_logger - INFO - Waiting for element: //a[@title='ck one shock for him Deodorant']
+2025-05-02 17:17:04,547 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@title='ck one shock for him Deodorant']")
+2025-05-02 17:17:04,550 - pages.Wishlist - INFO - Selected product for wishlist.
+2025-05-02 17:17:04,550 - steps.test_wishlist_steps - INFO - User selected a product.
+2025-05-02 17:17:04,556 - base_class_logger - INFO - Waiting for element: //i[@class='fa fa-plus-square fa-fw']
+2025-05-02 17:17:04,788 - base_class_logger - INFO - Clicked on element: ('xpath', "//i[@class='fa fa-plus-square fa-fw']")
+2025-05-02 17:17:04,788 - pages.Wishlist - INFO - Successfully added product to wishlist.
+2025-05-02 17:17:04,788 - steps.test_wishlist_steps - INFO - Product added to wishlist.
+2025-05-02 17:17:04,792 - base_class_logger - INFO - Waiting for element: //div[@class='menu_text']
+2025-05-02 17:17:05,133 - base_class_logger - INFO - Hovered over element: ('xpath', "//div[@class='menu_text']")
+2025-05-02 17:17:05,133 - pages.Wishlist - INFO - Hovered over the profile section.
+2025-05-02 17:17:05,133 - steps.test_wishlist_steps - INFO - User navigated to profile.
+2025-05-02 17:17:05,141 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=account/wishlist']
+2025-05-02 17:17:06,642 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=account/wishlist']")
+2025-05-02 17:17:06,643 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:17:06,643 - pages.Wishlist - INFO - Navigated to the wishlist page.
+2025-05-02 17:17:06,660 - steps.test_wishlist_steps - INFO - User navigated to wishlist.
+2025-05-02 17:17:06,671 - base_class_logger - INFO - Waiting for element: //i[@class='fa fa-trash-o fa-fw']
+2025-05-02 17:17:06,889 - base_class_logger - INFO - Clicked on element: ('xpath', "//i[@class='fa fa-trash-o fa-fw']")
+2025-05-02 17:17:06,891 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:17:06,902 - base_class_logger - INFO - The test details is entered into the database
+2025-05-02 17:17:06,902 - pages.Wishlist - INFO - Successfully removed product from wishlist.
+2025-05-02 17:17:06,902 - steps.test_wishlist_steps - INFO - User removed the product from the wishlist.

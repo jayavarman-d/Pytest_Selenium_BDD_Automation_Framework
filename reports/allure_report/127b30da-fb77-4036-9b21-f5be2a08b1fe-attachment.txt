@@ -1,0 +1,80 @@
+2025-05-02 17:13:32,654 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=52']
+2025-05-02 17:13:33,021 - base_class_logger - INFO - Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=52']")
+2025-05-02 17:13:33,021 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:33,021 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=52_54']
+2025-05-02 17:13:34,304 - base_class_logger - INFO - Executed script click on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=52_54']")
+2025-05-02 17:13:34,306 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:34,308 - pages.Product_Catalog - INFO - Successfully selected the product catalog from the navbar.
+2025-05-02 17:13:34,308 - steps.test_filters_steps - INFO - User navigated to the conditioner page.
+2025-05-02 17:13:34,310 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:34,547 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:34,550 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='pd.name-ASC']
+2025-05-02 17:13:36,047 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='pd.name-ASC']")
+2025-05-02 17:13:36,050 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:36,050 - base_class_logger - INFO - Waiting for element: //div[@class = 'fixed']//a[@class = 'prdocutname']
+2025-05-02 17:13:36,079 - base_class_logger - INFO - Found elements: ('xpath', "//div[@class = 'fixed']//a[@class = 'prdocutname']")
+2025-05-02 17:13:36,079 - pages.Product_Catalog - INFO - Sorted products in ascending order.
+2025-05-02 17:13:36,208 - steps.test_filters_steps - INFO - User clicked on the sort by Name A-Z.
+2025-05-02 17:13:36,217 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:36,434 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:36,436 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='pd.name-DESC']
+2025-05-02 17:13:37,760 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='pd.name-DESC']")
+2025-05-02 17:13:37,760 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:37,760 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='pd.name-DESC']
+2025-05-02 17:13:37,787 - base_class_logger - INFO - Found elements: ('xpath', "//select[@name='sort']//option[@value='pd.name-DESC']")
+2025-05-02 17:13:37,787 - pages.Product_Catalog - INFO - Sorted products in descending order.
+2025-05-02 17:13:37,809 - steps.test_filters_steps - INFO - User clicked on the sort by Name Z-A.
+2025-05-02 17:13:37,809 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:38,033 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:38,033 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='p.price-ASC']
+2025-05-02 17:13:39,417 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='p.price-ASC']")
+2025-05-02 17:13:39,419 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:39,422 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='p.price-ASC']
+2025-05-02 17:13:39,446 - base_class_logger - INFO - Found elements: ('xpath', "//select[@name='sort']//option[@value='p.price-ASC']")
+2025-05-02 17:13:39,446 - pages.Product_Catalog - INFO - Sorted products by price in ascending order.
+2025-05-02 17:13:39,461 - steps.test_filters_steps - INFO - User clicked on the sort by Price Low > High.
+2025-05-02 17:13:39,471 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:39,687 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:39,689 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='p.price-DESC']
+2025-05-02 17:13:41,132 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='p.price-DESC']")
+2025-05-02 17:13:41,135 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:41,135 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='p.price-DESC']
+2025-05-02 17:13:41,179 - base_class_logger - INFO - Found elements: ('xpath', "//select[@name='sort']//option[@value='p.price-DESC']")
+2025-05-02 17:13:41,179 - pages.Product_Catalog - INFO - Sorted products by price in descending order.
+2025-05-02 17:13:41,219 - steps.test_filters_steps - INFO - User clicked on the sort by Price High > Low.
+2025-05-02 17:13:41,219 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:41,455 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:41,456 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='rating-DESC']
+2025-05-02 17:13:42,798 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='rating-DESC']")
+2025-05-02 17:13:42,802 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:42,802 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='rating-DESC']
+2025-05-02 17:13:42,839 - base_class_logger - INFO - Found elements: ('xpath', "//select[@name='sort']//option[@value='rating-DESC']")
+2025-05-02 17:13:42,841 - pages.Product_Catalog - INFO - Sorted products by rating in high to low order.
+2025-05-02 17:13:42,850 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Highest.
+2025-05-02 17:13:42,860 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:43,072 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:43,073 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='rating-ASC']
+2025-05-02 17:13:44,500 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='rating-ASC']")
+2025-05-02 17:13:44,500 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:44,500 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='rating-ASC']
+2025-05-02 17:13:44,539 - base_class_logger - INFO - Found elements: ('xpath', "//select[@name='sort']//option[@value='rating-ASC']")
+2025-05-02 17:13:44,541 - pages.Product_Catalog - INFO - Sorted products by rating in low to high order.
+2025-05-02 17:13:44,563 - steps.test_filters_steps - INFO - User clicked on the sort by Rating Lowest.
+2025-05-02 17:13:44,563 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:44,803 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:44,803 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='date_modified-DESC']
+2025-05-02 17:13:46,255 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='date_modified-DESC']")
+2025-05-02 17:13:46,259 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:46,259 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='date_modified-DESC']
+2025-05-02 17:13:46,291 - base_class_logger - INFO - Found elements: ('xpath', "//select[@name='sort']//option[@value='date_modified-DESC']")
+2025-05-02 17:13:46,291 - pages.Product_Catalog - INFO - Sorted products by date from new to old.
+2025-05-02 17:13:46,320 - steps.test_filters_steps - INFO - User clicked on the sort by Date New > Old.
+2025-05-02 17:13:46,324 - base_class_logger - INFO - Waiting for element: //select[@name='sort']
+2025-05-02 17:13:46,533 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']")
+2025-05-02 17:13:46,533 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='date_modified-ASC']
+2025-05-02 17:13:47,950 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='sort']//option[@value='date_modified-ASC']")
+2025-05-02 17:13:47,950 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:13:47,950 - base_class_logger - INFO - Waiting for element: //select[@name='sort']//option[@value='date_modified-ASC']
+2025-05-02 17:13:47,984 - base_class_logger - INFO - Found elements: ('xpath', "//select[@name='sort']//option[@value='date_modified-ASC']")
+2025-05-02 17:13:47,986 - pages.Product_Catalog - INFO - Sorted products by date from old to new.
+2025-05-02 17:13:48,007 - steps.test_filters_steps - INFO - User clicked on the sort by Date Old > New.

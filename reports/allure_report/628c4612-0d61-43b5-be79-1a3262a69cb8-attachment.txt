@@ -1,0 +1,65 @@
+2025-05-02 17:12:30 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:12:32 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:12:32 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:12:32 [32mINFO[0m Navigated to the Home Page.
+2025-05-02 17:12:32 [32mINFO[0m User is on the homepage.
+2025-05-02 17:12:32 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']
+2025-05-02 17:12:33 [32mINFO[0m Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']")
+2025-05-02 17:12:33 [32mINFO[0m Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']
+2025-05-02 17:12:34 [32mINFO[0m Clicked on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']")
+2025-05-02 17:12:34 [32mINFO[0m Navigated to the skincare section in the navbar.
+2025-05-02 17:12:34 [32mINFO[0m User navigated to the navbar.
+2025-05-02 17:12:34 [32mINFO[0m Waiting for element: //a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']
+2025-05-02 17:12:36 [32mINFO[0m Clicked on element: ('xpath', "//a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']")
+2025-05-02 17:12:36 [32mINFO[0m Selected the product.
+2025-05-02 17:12:36 [32mINFO[0m User selected the product.
+2025-05-02 17:12:37 [32mINFO[0m Waiting for element: //i[@class='fa fa-cart-plus fa-fw']
+2025-05-02 17:12:37 [32mINFO[0m Clicked on element: ('xpath', "//i[@class='fa fa-cart-plus fa-fw']")
+2025-05-02 17:12:37 [32mINFO[0m Product added to cart.
+2025-05-02 17:12:37 [32mINFO[0m Waiting for element: //a[@id = 'cart_checkout1']//i[@class='fa fa-shopping-cart fa-fw']
+2025-05-02 17:12:39 [32mINFO[0m Clicked on element: ('xpath', "//a[@id = 'cart_checkout1']//i[@class='fa fa-shopping-cart fa-fw']")
+2025-05-02 17:12:39 [32mINFO[0m Clicked on checkout.
+2025-05-02 17:12:39 [32mINFO[0m User added the product to cart and proceeded to checkout.
+2025-05-02 17:12:39 [32mINFO[0m Waiting for element: //input[@id = 'accountFrm_accountguest']
+2025-05-02 17:12:41 [32mINFO[0m Clicked on element: ('xpath', "//input[@id = 'accountFrm_accountguest']")
+2025-05-02 17:12:41 [32mINFO[0m Waiting for element: //button[@title = 'Continue']
+2025-05-02 17:12:41 [32mINFO[0m Clicked on element: ('xpath', "//button[@title = 'Continue']")
+2025-05-02 17:12:41 [32mINFO[0m Selected guest account and proceeded.
+2025-05-02 17:12:41 [32mINFO[0m User selected guest account for checkout.
+2025-05-02 17:12:41 [32mINFO[0m Waiting for element: //input[@name = 'firstname']
+2025-05-02 17:12:43 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'firstname']") with value: Jay
+2025-05-02 17:12:43 [32mINFO[0m Waiting for element: //input[@name = 'lastname']
+2025-05-02 17:12:43 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'lastname']") with value: Demo
+2025-05-02 17:12:43 [32mINFO[0m Waiting for element: //input[@name = 'email' and @id='guestFrm_email']
+2025-05-02 17:12:43 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'email' and @id='guestFrm_email']") with value: Demo@gmail.com
+2025-05-02 17:12:43 [32mINFO[0m Waiting for element: //input[@name = 'telephone']
+2025-05-02 17:12:44 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'telephone']") with value: 9819283123
+2025-05-02 17:12:44 [32mINFO[0m Waiting for element: //input[@name = 'fax']
+2025-05-02 17:12:44 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'fax']") with value: 132123
+2025-05-02 17:12:44 [32mINFO[0m Waiting for element: //input[@name = 'company']
+2025-05-02 17:12:44 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'company']") with value: TA
+2025-05-02 17:12:44 [32mINFO[0m Waiting for element: //input[@name = 'address_1']
+2025-05-02 17:12:44 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'address_1']") with value: 23, ABC Street
+2025-05-02 17:12:44 [32mINFO[0m Waiting for element: //input[@name = 'city']
+2025-05-02 17:12:44 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'city']") with value: Paris
+2025-05-02 17:12:44 [32mINFO[0m Waiting for element: //select[@name='country_id']//option[text() ='France']
+2025-05-02 17:12:44 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='country_id']//option[text() ='France']")
+2025-05-02 17:12:44 [32mINFO[0m Waiting for element: //select[@name='zone_id']//option[text() ='Paris / Ill de France']
+2025-05-02 17:12:45 [32mINFO[0m Clicked on element: ('xpath', "//select[@name='zone_id']//option[text() ='Paris / Ill de France']")
+2025-05-02 17:12:45 [32mINFO[0m Waiting for element: //input[@name = 'postcode']
+2025-05-02 17:12:45 [32mINFO[0m Sent value to element: ('xpath', "//input[@name = 'postcode']") with value: 70123
+2025-05-02 17:12:45 [32mINFO[0m Waiting for element: //button[@title = 'Continue']
+2025-05-02 17:12:47 [32mINFO[0m Clicked on element: ('xpath', "//button[@title = 'Continue']")
+2025-05-02 17:12:47 [32mINFO[0m Entered guest details successfully.
+2025-05-02 17:12:47 [32mINFO[0m User entered the required shipping details.
+2025-05-02 17:12:47 [32mINFO[0m Waiting for element: //span[@class='bold totalamout']
+2025-05-02 17:12:47 [32mINFO[0m Got text from element: ('xpath', "//span[@class='bold totalamout']") - Text: $265.00
+2025-05-02 17:12:47 [32mINFO[0m Invoice data successfully entered into the database
+2025-05-02 17:12:47 [32mINFO[0m Entered the invoice details into the database
+2025-05-02 17:12:47 [32mINFO[0m Waiting for element: //button[@title = 'Confirm Order']
+2025-05-02 17:12:47 [32mINFO[0m Clicked on element: ('xpath', "//button[@title = 'Confirm Order']")
+2025-05-02 17:12:47 [32mINFO[0m Confirmed checkout.
+2025-05-02 17:12:47 [32mINFO[0m Waiting for element: //span[contains(.,'Your Order Has Been Processed!')]
+2025-05-02 17:12:49 [32mINFO[0m Got text from element: ('xpath', "//span[contains(.,'Your Order Has Been Processed!')]") - Text: YOUR ORDER HAS BEEN PROCESSED!
+2025-05-02 17:12:49 [32mINFO[0m The test details is entered into the database
+2025-05-02 17:12:49 [32mINFO[0m User completed the payment process and confirmed checkout.

@@ -1,0 +1,58 @@
+2025-05-02 17:13:58,456 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:14:00,526 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:14:00,530 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:14:00,530 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:14:00,530 - steps.test_full_flow_steps - INFO - User is on the homepage.
+2025-05-02 17:14:00,535 - base_class_logger - INFO - Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:14:00,576 - base_class_logger - INFO - Found element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:14:02,206 - base_class_logger - INFO - Clicked on element: <selenium.webdriver.remote.webelement.WebElement (session="7b4e4160f6987aedd58c5cf5654c3450", element="f.1289922CF18D0F533E972741CD5D1C25.d.7D26D112732C57841D97A0D3D8781F01.e.64")>
+2025-05-02 17:14:02,210 - pages.Homepage - INFO - Navigated to Sign-In Page.
+2025-05-02 17:14:02,216 - steps.test_full_flow_steps - INFO - User clicked on the sign-in button.
+2025-05-02 17:14:02,216 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:14:02,376 - base_class_logger - INFO - Cleared text of element: ('xpath', "//input[@name='loginname']")
+2025-05-02 17:14:02,376 - base_class_logger - INFO - Waiting for element: //input[@name='loginname']
+2025-05-02 17:14:02,575 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='loginname']") with value: Demo866
+2025-05-02 17:14:02,575 - pages.Homepage - INFO - Entered valid username in the Sign-In field.
+2025-05-02 17:14:02,576 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:14:02,692 - base_class_logger - INFO - Cleared text of element: ('xpath', "//input[@name='password']")
+2025-05-02 17:14:02,694 - base_class_logger - INFO - Waiting for element: //input[@name='password']
+2025-05-02 17:14:02,895 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name='password']") with value: Demo866ta
+2025-05-02 17:14:02,895 - pages.Homepage - INFO - Entered valid password in the Sign-In field.
+2025-05-02 17:14:02,895 - base_class_logger - INFO - Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:14:04,571 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:14:04,574 - pages.Homepage - INFO - Clicked the Sign-In button.
+2025-05-02 17:14:04,574 - steps.test_full_flow_steps - INFO - User entered valid credentials and clicked sign-in.
+2025-05-02 17:14:04,576 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:14:06,665 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:14:06,668 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:14:06,670 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:14:06,670 - steps.test_full_flow_steps - INFO - User successfully signed in and navigated to home.
+2025-05-02 17:14:06,672 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']
+2025-05-02 17:14:07,009 - base_class_logger - INFO - Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']")
+2025-05-02 17:14:07,014 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']
+2025-05-02 17:14:08,490 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']")
+2025-05-02 17:14:08,490 - pages.Product_Cart - INFO - Navigated to the skincare section in the navbar.
+2025-05-02 17:14:08,492 - steps.test_full_flow_steps - INFO - User navigated to the skincare section in the navbar.
+2025-05-02 17:14:08,492 - base_class_logger - INFO - Waiting for element: //a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']
+2025-05-02 17:14:10,234 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']")
+2025-05-02 17:14:10,236 - pages.Product_Cart - INFO - Selected the product.
+2025-05-02 17:14:10,238 - steps.test_full_flow_steps - INFO - User selected a product.
+2025-05-02 17:14:10,238 - base_class_logger - INFO - Waiting for element: //a[@href='#' and @class ='cart']
+2025-05-02 17:14:10,439 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@href='#' and @class ='cart']")
+2025-05-02 17:14:10,439 - pages.Product_Cart - INFO - Clicked 'Add to Cart' button.
+2025-05-02 17:14:10,439 - steps.test_full_flow_steps - INFO - User added the product to the cart.
+2025-05-02 17:14:10,439 - base_class_logger - INFO - Waiting for element: //a[@class='btn btn-orange pull-right' and @id ='cart_checkout1']
+2025-05-02 17:14:14,321 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@class='btn btn-orange pull-right' and @id ='cart_checkout1']")
+2025-05-02 17:14:14,321 - pages.Product_Cart - INFO - Clicked on checkout cart.
+2025-05-02 17:14:14,321 - steps.test_full_flow_steps - INFO - User confirmed the checkout.
+2025-05-02 17:14:14,321 - base_class_logger - INFO - Waiting for element: //button[@title = 'Confirm Order']
+2025-05-02 17:14:14,515 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@title = 'Confirm Order']")
+2025-05-02 17:14:14,516 - pages.Product_Cart - INFO - Confirmed the checkout.
+2025-05-02 17:14:14,516 - steps.test_full_flow_steps - INFO - User confirmed the order during checkout.
+2025-05-02 17:14:14,519 - base_class_logger - INFO - Waiting for element: //span[@class='maintext']
+2025-05-02 17:14:14,590 - base_class_logger - INFO - Got text from element: ('xpath', "//span[@class='maintext']") - Text: CHECKOUT CONFIRMATION
+2025-05-02 17:14:14,592 - pages.Product_Cart - INFO - Order confirmed with message: CHECKOUT CONFIRMATION
+2025-05-02 17:14:14,593 - base_class_logger - INFO - Waiting for element: //span[contains(.,'Your Order Has Been Processed!')]
+2025-05-02 17:14:16,737 - base_class_logger - INFO - Got text from element: ('xpath', "//span[contains(.,'Your Order Has Been Processed!')]") - Text: YOUR ORDER HAS BEEN PROCESSED!
+2025-05-02 17:14:16,744 - base_class_logger - INFO - The test details is entered into the database
+2025-05-02 17:14:16,744 - steps.test_full_flow_steps - INFO - The confirmation message 'Your order has been Processed' is displayed.

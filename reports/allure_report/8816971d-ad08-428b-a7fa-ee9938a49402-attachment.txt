@@ -1,0 +1,38 @@
+2025-05-02 17:15:46 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:15:48 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:15:48 [32mINFO[0m Implicit wait for 5 seconds.
+2025-05-02 17:15:48 [32mINFO[0m Navigated to the Home Page.
+2025-05-02 17:15:48 [32mINFO[0m User is on the homepage.
+2025-05-02 17:15:48 [32mINFO[0m Waiting for element: //li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']
+2025-05-02 17:15:50 [32mINFO[0m Clicked on element: ('xpath', "//li[@data-id='menu_account']//span[@class='menu_text' and text()='Account']")
+2025-05-02 17:15:50 [32mINFO[0m Waiting for element: //input[@name='loginname']
+2025-05-02 17:15:50 [32mINFO[0m Clicked on element: ('xpath', "//input[@name='loginname']")
+2025-05-02 17:15:50 [32mINFO[0m Waiting for element: //input[@name='loginname']
+2025-05-02 17:15:50 [32mINFO[0m Sent value to element: ('xpath', "//input[@name='loginname']") with value: Demo8666
+2025-05-02 17:15:50 [32mINFO[0m Waiting for element: //input[@name='password']
+2025-05-02 17:15:50 [32mINFO[0m Clicked on element: ('xpath', "//input[@name='password']")
+2025-05-02 17:15:50 [32mINFO[0m Waiting for element: //input[@name='password']
+2025-05-02 17:15:50 [32mINFO[0m Sent value to element: ('xpath', "//input[@name='password']") with value: Demo8666ta
+2025-05-02 17:15:50 [32mINFO[0m Waiting for element: //button[@type='submit' and @title = 'Login']
+2025-05-02 17:15:51 [32mINFO[0m Clicked on element: ('xpath', "//button[@type='submit' and @title = 'Login']")
+2025-05-02 17:15:51 [32mINFO[0m Successfully logged in with valid credentials.
+2025-05-02 17:15:51 [32mINFO[0m User signed in successfully.
+2025-05-02 17:15:51 [32mINFO[0m Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:15:57 [32mINFO[0m Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:15:57 [32mINFO[0m Successfully navigated to the homepage.
+2025-05-02 17:15:57 [32mINFO[0m User navigated to the homepage after sign-in.
+2025-05-02 17:15:57 [32mINFO[0m Waiting for element: //ul[@class='nav topcart pull-left']//i[@class='fa fa-shopping-cart fa-fw']
+2025-05-02 17:15:57 [32mINFO[0m Hovered over element: ('xpath', "//ul[@class='nav topcart pull-left']//i[@class='fa fa-shopping-cart fa-fw']")
+2025-05-02 17:15:57 [32mINFO[0m Waiting for element: //ul[@class='nav topcart pull-left']//a[@class='btn btn-default']
+2025-05-02 17:16:00 [32mINFO[0m Clicked on element: ('xpath', "//ul[@class='nav topcart pull-left']//a[@class='btn btn-default']")
+2025-05-02 17:16:00 [32mINFO[0m Hovered over and clicked to view the cart.
+2025-05-02 17:16:00 [32mINFO[0m User clicked on the cart page.
+2025-05-02 17:16:00 [32mINFO[0m Waiting for element: //td[@class='align_left']//a[contains(text(),'')]
+2025-05-02 17:16:00 [32mINFO[0m Got text from element: ('xpath', "//td[@class='align_left']//a[contains(text(),'')]") - Text: Color Design Eye Brightening All in One 5 Shadow & Liner Palette
+2025-05-02 17:16:00 [32mINFO[0m Waiting for element: //a[@class='btn btn-sm btn-default']
+2025-05-02 17:16:02 [32mINFO[0m Clicked on element: ('xpath', "//a[@class='btn btn-sm btn-default']")
+2025-05-02 17:16:02 [32mINFO[0m Successfully removed item from the cart.
+2025-05-02 17:16:02 [32mINFO[0m Waiting for element: //td[@class='align_left']//a[contains(text(),'')]
+2025-05-02 17:16:02 [32mINFO[0m Got text from element: ('xpath', "//td[@class='align_left']//a[contains(text(),'')]") - Text: Lancome Hypnose Doll Lashes Mascara 4-Piece Gift Set
+2025-05-02 17:16:02 [32mINFO[0m The test details is entered into the database
+2025-05-02 17:16:02 [32mINFO[0m User started removing items from the cart.

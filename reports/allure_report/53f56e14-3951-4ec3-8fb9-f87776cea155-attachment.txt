@@ -1,0 +1,65 @@
+2025-05-02 17:12:30,750 - base_class_logger - INFO - Waiting for element: //img[@title='Automation Test Store']
+2025-05-02 17:12:32,919 - base_class_logger - INFO - Clicked on element: ('xpath', "//img[@title='Automation Test Store']")
+2025-05-02 17:12:32,921 - base_class_logger - INFO - Implicit wait for 5 seconds.
+2025-05-02 17:12:32,921 - pages.Homepage - INFO - Navigated to the Home Page.
+2025-05-02 17:12:32,921 - steps.test_buy_without_login_steps - INFO - User is on the homepage.
+2025-05-02 17:12:32,925 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']
+2025-05-02 17:12:33,366 - base_class_logger - INFO - Hovered over element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43']")
+2025-05-02 17:12:33,368 - base_class_logger - INFO - Waiting for element: //a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']
+2025-05-02 17:12:34,871 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@href='https://automationteststore.com/index.php?rt=product/category&path=43_45']")
+2025-05-02 17:12:34,873 - pages.Product_Cart - INFO - Navigated to the skincare section in the navbar.
+2025-05-02 17:12:34,874 - steps.test_buy_without_login_steps - INFO - User navigated to the navbar.
+2025-05-02 17:12:34,875 - base_class_logger - INFO - Waiting for element: //a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']
+2025-05-02 17:12:36,557 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@class='prdocutname' and @title ='Night Care Crema Nera Obsidian Mineral Complex']")
+2025-05-02 17:12:36,559 - pages.Product_Cart - INFO - Selected the product.
+2025-05-02 17:12:36,559 - steps.test_buy_without_login_steps - INFO - User selected the product.
+2025-05-02 17:12:37,193 - base_class_logger - INFO - Waiting for element: //i[@class='fa fa-cart-plus fa-fw']
+2025-05-02 17:12:37,393 - base_class_logger - INFO - Clicked on element: ('xpath', "//i[@class='fa fa-cart-plus fa-fw']")
+2025-05-02 17:12:37,398 - pages.Buy_Without_Login - INFO - Product added to cart.
+2025-05-02 17:12:37,398 - base_class_logger - INFO - Waiting for element: //a[@id = 'cart_checkout1']//i[@class='fa fa-shopping-cart fa-fw']
+2025-05-02 17:12:39,264 - base_class_logger - INFO - Clicked on element: ('xpath', "//a[@id = 'cart_checkout1']//i[@class='fa fa-shopping-cart fa-fw']")
+2025-05-02 17:12:39,265 - pages.Buy_Without_Login - INFO - Clicked on checkout.
+2025-05-02 17:12:39,265 - steps.test_buy_without_login_steps - INFO - User added the product to cart and proceeded to checkout.
+2025-05-02 17:12:39,272 - base_class_logger - INFO - Waiting for element: //input[@id = 'accountFrm_accountguest']
+2025-05-02 17:12:41,573 - base_class_logger - INFO - Clicked on element: ('xpath', "//input[@id = 'accountFrm_accountguest']")
+2025-05-02 17:12:41,573 - base_class_logger - INFO - Waiting for element: //button[@title = 'Continue']
+2025-05-02 17:12:41,756 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@title = 'Continue']")
+2025-05-02 17:12:41,758 - pages.Buy_Without_Login - INFO - Selected guest account and proceeded.
+2025-05-02 17:12:41,758 - steps.test_buy_without_login_steps - INFO - User selected guest account for checkout.
+2025-05-02 17:12:41,765 - base_class_logger - INFO - Waiting for element: //input[@name = 'firstname']
+2025-05-02 17:12:43,690 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'firstname']") with value: Jay
+2025-05-02 17:12:43,690 - base_class_logger - INFO - Waiting for element: //input[@name = 'lastname']
+2025-05-02 17:12:43,824 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'lastname']") with value: Demo
+2025-05-02 17:12:43,832 - base_class_logger - INFO - Waiting for element: //input[@name = 'email' and @id='guestFrm_email']
+2025-05-02 17:12:43,988 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'email' and @id='guestFrm_email']") with value: Demo@gmail.com
+2025-05-02 17:12:43,991 - base_class_logger - INFO - Waiting for element: //input[@name = 'telephone']
+2025-05-02 17:12:44,188 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'telephone']") with value: 9819283123
+2025-05-02 17:12:44,191 - base_class_logger - INFO - Waiting for element: //input[@name = 'fax']
+2025-05-02 17:12:44,358 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'fax']") with value: 132123
+2025-05-02 17:12:44,358 - base_class_logger - INFO - Waiting for element: //input[@name = 'company']
+2025-05-02 17:12:44,489 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'company']") with value: TA
+2025-05-02 17:12:44,489 - base_class_logger - INFO - Waiting for element: //input[@name = 'address_1']
+2025-05-02 17:12:44,678 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'address_1']") with value: 23, ABC Street
+2025-05-02 17:12:44,678 - base_class_logger - INFO - Waiting for element: //input[@name = 'city']
+2025-05-02 17:12:44,878 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'city']") with value: Paris
+2025-05-02 17:12:44,879 - base_class_logger - INFO - Waiting for element: //select[@name='country_id']//option[text() ='France']
+2025-05-02 17:12:44,975 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='country_id']//option[text() ='France']")
+2025-05-02 17:12:44,975 - base_class_logger - INFO - Waiting for element: //select[@name='zone_id']//option[text() ='Paris / Ill de France']
+2025-05-02 17:12:45,308 - base_class_logger - INFO - Clicked on element: ('xpath', "//select[@name='zone_id']//option[text() ='Paris / Ill de France']")
+2025-05-02 17:12:45,308 - base_class_logger - INFO - Waiting for element: //input[@name = 'postcode']
+2025-05-02 17:12:45,446 - base_class_logger - INFO - Sent value to element: ('xpath', "//input[@name = 'postcode']") with value: 70123
+2025-05-02 17:12:45,447 - base_class_logger - INFO - Waiting for element: //button[@title = 'Continue']
+2025-05-02 17:12:47,593 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@title = 'Continue']")
+2025-05-02 17:12:47,593 - pages.Buy_Without_Login - INFO - Entered guest details successfully.
+2025-05-02 17:12:47,593 - steps.test_buy_without_login_steps - INFO - User entered the required shipping details.
+2025-05-02 17:12:47,601 - base_class_logger - INFO - Waiting for element: //span[@class='bold totalamout']
+2025-05-02 17:12:47,666 - base_class_logger - INFO - Got text from element: ('xpath', "//span[@class='bold totalamout']") - Text: $265.00
+2025-05-02 17:12:47,694 - base_class_logger - INFO - Invoice data successfully entered into the database
+2025-05-02 17:12:47,694 - pages.Buy_Without_Login - INFO - Entered the invoice details into the database
+2025-05-02 17:12:47,694 - base_class_logger - INFO - Waiting for element: //button[@title = 'Confirm Order']
+2025-05-02 17:12:47,857 - base_class_logger - INFO - Clicked on element: ('xpath', "//button[@title = 'Confirm Order']")
+2025-05-02 17:12:47,857 - pages.Buy_Without_Login - INFO - Confirmed checkout.
+2025-05-02 17:12:47,857 - base_class_logger - INFO - Waiting for element: //span[contains(.,'Your Order Has Been Processed!')]
+2025-05-02 17:12:49,845 - base_class_logger - INFO - Got text from element: ('xpath', "//span[contains(.,'Your Order Has Been Processed!')]") - Text: YOUR ORDER HAS BEEN PROCESSED!
+2025-05-02 17:12:49,875 - base_class_logger - INFO - The test details is entered into the database
+2025-05-02 17:12:49,878 - steps.test_buy_without_login_steps - INFO - User completed the payment process and confirmed checkout.
